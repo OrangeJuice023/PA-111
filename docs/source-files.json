@@ -1,0 +1,24 @@
+﻿{
+  "docs": [
+    {
+      "id": "exam-reviewer",
+      "title": "PA 111 EXAM REVIEWER.pdf",
+      "type": "pdf"
+    },
+    {
+      "id": "notes",
+      "title": "PA 111 NOTES.pdf",
+      "type": "pdf"
+    },
+    {
+      "id": "reading-set-1",
+      "title": "PA 111-Reading Set 1 (1).docx",
+      "type": "docx"
+    },
+    {
+      "id": "consolidated-syllabus-aligned",
+      "title": "PA111_Consolidated_Notes_Syllabus_Aligned.pdf",
+      "type": "pdf"
+    }
+  ]
+}
