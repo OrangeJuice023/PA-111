@@ -236,6 +236,44 @@
   background-color: #485741;
 }
 
+/* Exam scope badge (beyond the confirmed Drucker cutoff) */
+.scope-badge {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--text-secondary, #6C7067);
+  background-color: #EFEDE8;
+  border: 1px solid var(--border-color, #D9D2C5);
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.scope-badge-heading {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.scope-note {
+  font-size: 0.82rem;
+  color: var(--text-secondary, #6C7067);
+  background-color: #F3F1EB;
+  border: 1px solid var(--border-color, #D9D2C5);
+  border-radius: 6px;
+  padding: 0.5rem 0.85rem;
+  margin-bottom: 1.25rem;
+  line-height: 1.5;
+}
+
+.scope-note strong {
+  color: var(--text-primary, #30352E);
+}
+
 @media (max-width: 768px) {
   .division-block {
     padding: 1.5rem;

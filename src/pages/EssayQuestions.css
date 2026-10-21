@@ -432,6 +432,38 @@
   line-height: 1.6;
 }
 
+/* Exam scope badge (beyond the confirmed Drucker cutoff) */
+.scope-badge {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--text-secondary, #6C7067);
+  background-color: #EFEDE8;
+  border: 1px solid var(--border-color, #D9D2C5);
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.scope-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  color: var(--text-secondary, #6C7067);
+  margin-top: 1rem;
+  cursor: pointer;
+  padding: 0.35rem 0.6rem;
+  border-radius: 6px;
+  background-color: #F3F1EB;
+  border: 1px solid var(--border-color, #D9D2C5);
+}
+
+.scope-toggle input {
+  cursor: pointer;
+}
+
 @media (max-width: 768px) {
   .btn-toggle-answer {
     margin-left: 0;

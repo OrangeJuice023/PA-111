@@ -13,6 +13,8 @@ export interface EssayQuestion {
   theories: string[];
   answer: string;
   sources: SourceRef[];
+  /** True when the question substantially relies on topics after the confirmed exam cutoff (Drucker/MBO). */
+  outOfScope?: boolean;
 }
 
 export const essayQuestions: EssayQuestion[] = [
@@ -76,8 +78,8 @@ Management should immediately deploy the Gantt visual scheduling chart to make p
     divisionId: 'D2A',
     divisionLabel: 'Division II: Evolution of Management Thought (Classical)',
     difficulty: 'Integrative',
-    question: 'Examine Max Weber’s ideal type of bureaucracy as the purest structural embodiment of rational-legal authority. What structural characteristics make it technically superior to traditional and charismatic administration? Furthermore, incorporate Robert K. Merton’s concepts of "trained incapacity" and "goal displacement," as well as modern Contingency Theory, to explain why bureaucracy fails in dynamic, crisis-driven public environments.',
-    theories: ["Weber's Bureaucracy & Three Authorities", "Merton's Dysfunctions of Bureaucracy", "Contingency Theory (Lawrence & Lorsch)"],
+    question: 'Examine Max Weber’s ideal type of bureaucracy as the purest structural embodiment of rational-legal authority. What structural characteristics make it technically superior to traditional and charismatic administration? Furthermore, incorporate Robert K. Merton’s concepts of "trained incapacity" and "goal displacement" to explain how an administrative agency originally designed for procedural equity deteriorates into red-tape paralysis.',
+    theories: ["Weber's Bureaucracy & Three Authorities", "Merton's Dysfunctions of Bureaucracy"],
     answer: `Max Weber conceptualized bureaucracy as the crowning achievement of modern societal rationalization, serving as the organizational machinery of rational-legal authority. Unlike traditional authority (legitimized by hereditary sanctity and personal loyalty to a master) or charismatic authority (legitimized by devotion to an individual’s extraordinary heroism or prophetic aura, which is inherently unstable and volatile), rational-legal authority derives its legitimacy from an impersonal, enacted legal order.
 
 Weber asserted that a fully developed bureaucracy is technically superior to all other administrative forms due to its structural characteristics:
@@ -93,9 +95,7 @@ However, subsequent sociologists exposed the deep functional pathologies embedde
 - Trained Incapacity: Intensive indoctrination in rigid procedures renders officials cognitively blind to novel circumstances. Past actions that were successful in standard conditions are mechanically applied to unprecedented problems, causing disastrous failures.
 - Goal Displacement: Rules, originally designed as instrumental means toward broader public objectives, are transformed into sacred, absolute ends. Officials display obsessive procedural formalism ("red tape"), prioritizing meticulous documentation over client problem-solving.
 
-Modern Contingency Theory (Lawrence & Lorsch, Burns & Stalker) explains why bureaucracy stumbles in crisis. Bureaucracy is a "mechanistic system" optimized for stable, predictable environments. When a public agency faces environmental turbulence (e.g., pandemics, natural disasters, economic shocks), the vertical scalar chain delays vital intelligence, functional silos prevent lateral communication, and standardized rules suppress necessary frontline discretion. 
-
-In such turbulent settings, administration must transition toward "organic structures": decentralizing decision authority, relying on mutual adjustment and cross-functional teams, and empowering street-level discretion to achieve adaptive public protection.`,
+In such settings, the pursuit of procedural correctness can eclipse substantive public service: the clerk who follows every rule to the letter while leaving citizens waiting for weeks has fulfilled his formal obligations but failed his substantive mission. Recognizing this pathology is the first step toward structural remedies—such as performance auditing, frontline discretion within clear boundaries, and periodic procedural review—that preserve the accountability strengths of bureaucracy without surrendering it to red-tape paralysis.`,
     sources: [
       { key: 'CONS', page: 'Section 2.1 & 2.4 (p. 7-8, 11)' },
       { key: 'NOTES', page: 'Albrow Ch. 2-3; Merton (p. 22-25)' },
@@ -139,6 +139,7 @@ To cultivate genuine, sustainable motivation, the commission must enact a four-p
     difficulty: 'Integrative',
     question: 'A newly appointed city administrator launches an enterprise digital resource planning system to automate procurement and streamline citizen welfare disbursements. Frontline staff actively resist the rollout through subtle workarounds, deliberate data entry errors, and anonymous petitions to the city council alleging the system is dysfunctional. Using Gareth Morgan’s metaphors of organization—specifically the Machine, Organism, Brain, and Political System lenses—analyze the underlying drivers of this resistance and formulate an integrated change-management strategy.',
     theories: ["Gareth Morgan's Metaphors of Organization (Machine, Organism, Brain, Political System)", "Resistance to Change"],
+    outOfScope: true,
     answer: `Administrative resistance to digital modernization is rarely a simple technical glitch; it is a multifaceted organizational phenomenon. Applying Gareth Morgan’s metaphorical lenses illuminates why a technically elegant software rollout triggers institutional revolt:
 
 1. The Machine Lens (Structural Flaws):
@@ -319,6 +320,7 @@ In a public agency, vertical enrichment is operationalized by:
     difficulty: 'Intermediate',
     question: 'Trace the complete administrative lifecycle through the PIME framework (Planning, Implementation, Monitoring, Evaluation, and Revision). Using a concrete public sector scenario—such as a municipal initiative to digitize small business licensing—explain how a failure in the Monitoring phase corrupts the Evaluation phase and paralyzes the continuous learning loop.',
     theories: ["PIME Administrative Framework", "Cybernetic Feedback Loops", "Single-Loop vs. Double-Loop Learning"],
+    outOfScope: true,
     answer: `The PIME framework (Planning, Implementation, Monitoring, and Evaluation) conceptualizes public administration as an integrated, closed-loop cybernetic lifecycle. Administrative success depends upon the seamless, iterative flow of intelligence across all four stages:
 
 1. The PIME Lifecycle in a Municipal Business Licensing Initiative:
@@ -489,6 +491,7 @@ Public managers must diagnose four critical situational parameters before select
     difficulty: 'Integrative',
     question: 'Develop a grand theoretical synthesis integrating the Classical School, the Human Relations School, the Systems Approach, and Contingency Theory. Demonstrate how a contemporary public sector leader must synthesize these four paradigms to successfully execute a major public health reform that simultaneously demands rigorous logistical efficiency, compassionate community trust, and rapid adaptability.',
     theories: ["Grand Synthesis: Classical, Human Relations, Systems, and Contingency Paradigms", "Public Health Governance"],
+    outOfScope: true,
     answer: `The historical trajectory of administrative thought is not a graveyard of obsolete ideas; rather, it forms an integrated, cumulative toolkit. A sophisticated public administrator must act as an institutional conductor, harmonizing the structural rigor of the Classical School, the psychological empathy of the Human Relations School, the holistic integration of the Systems Approach, and the situational agility of Contingency Theory.
 
 Consider a major public health reform: executing a national pandemic vaccination and healthcare delivery campaign across diverse urban and rural communities. Executing this massive mandate requires synthesizing all four schools:

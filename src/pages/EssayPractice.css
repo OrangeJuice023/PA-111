@@ -1,5 +1,18 @@
 /* Essay Practice Workspace Styles */
 
+.scope-badge {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--text-secondary, #6C7067);
+  background-color: #EFEDE8;
+  border: 1px solid var(--border-color, #D9D2C5);
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
 .essay-practice-page {
   background-color: var(--bg-primary, #F8F6F0);
   min-height: 100vh;

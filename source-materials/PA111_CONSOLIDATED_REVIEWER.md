@@ -56,11 +56,11 @@
      - [C.6 Philip Selznick: Foundations of Organization Theory and Institutional Co-optation](#c6-philip-selznick-foundations-of-organization-theory-and-institutional-co-optation)
      - [C.7 Peter F. Drucker: The Practice of Management and Management by Objectives](#c7-peter-f-drucker-the-practice-of-management-and-management-by-objectives)
      - [C.8 Modern Management Synthesis & Analytical Questions](#c8-modern-management-synthesis--analytical-questions)
-   - [II-D. Emerging Management Perspectives](#ii-d-emerging-management-perspectives)
+   - [II-D. Emerging Management Perspectives [Possible not included in the exam]](#ii-d-emerging-management-perspectives)
      - [D.1 The Contingency Perspective (Situational Alignment)](#d1-the-contingency-perspective-situational-alignment)
      - [D.2 Chaos and Complexity Theory (Non-Linearity and Emergence)](#d2-chaos-and-complexity-theory-non-linearity-and-emergence)
      - [D.3 Cross-School Synthesis Matrix (Classical through Emerging)](#d3-cross-school-synthesis-matrix-classical-through-emerging)
-5. [Division III — Metaphors of Organization](#division-iii--metaphors-of-organization)
+5. [Division III — Metaphors of Organization [Possible not included in the exam]](#division-iii--metaphors-of-organization)
    - [3.1 Theoretical Foundations of Metaphorical Analysis](#31-theoretical-foundations-of-metaphorical-analysis)
    - [3.2 Organizations as Machines](#32-organizations-as-machines)
    - [3.3 Organizations as Organisms](#33-organizations-as-organisms)
@@ -804,7 +804,11 @@ Modern Management Theory represents the intellectual synthesis that matured from
 
 ---
 
-## II-D. Emerging Management Perspectives
+> **Possible not included in the exam**
+>
+> *The following content (II-D, Division III, and Division IV) falls after the confirmed exam cutoff, which ends at Peter F. Drucker's Management by Objectives (C.7). It is retained here for complete course coverage but is not part of the current examination scope.*
+
+## II-D. Emerging Management Perspectives [Possible not included in the exam]
 
 ```
 ========================================================================================

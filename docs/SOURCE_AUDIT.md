@@ -141,9 +141,51 @@ Legend:
 
 ---
 
-## 3. Coverage Audit Verification Summary
+## 3. Exam Scope Correction (October 2026)
+
+### 3.1 Confirmed Exam Cutoff
+
+The confirmed examination scope for the current term **ends at Peter F. Drucker's Management by Objectives (MBO)**, which is section **C.7** in the Consolidated Reviewer (the last topic of *II-C. Modern Management Theory*).
+
+### 3.2 Scope Status by Topic
+
+| Topic | Section | In Exam Scope? | Badge Applied |
+| :--- | :--- | :--- | :--- |
+| Division I — History of Administration | 1.1–1.6 | **Yes** | No |
+| II-A. The Classical School | A.1–A.12 | **Yes** | No |
+| II-B. The Human Relations School | B.1–B.13 | **Yes** | No |
+| II-C. Modern Management (incl. Drucker MBO) | C.1–C.8 | **Yes** (C.7 is the cutoff) | No |
+| **II-D. Emerging Perspectives (Contingency & Chaos)** | D.1–D.3 | **No** | `Possible not included in the exam` |
+| **Division III — Metaphors of Organization (Morgan)** | 3.1–3.8 | **No** | `Possible not included in the exam` |
+| **Division IV — Functions of Administration (PIME)** | 4.1–4.8 | **No** | `Possible not included in the exam` |
+| Division V — Essay Masterclass | 5.1–5.3 | **No** (methodology only) | No badge — retained as generic writing guidance |
+
+### 3.3 Essay Question Scope Revisions
+
+The following existing questions were **retained but marked out-of-scope**, because they substantially depend on topics after the Drucker cutoff:
+
+| Question | Beyond-Cutoff Dependency | Action |
+| :--- | :--- | :--- |
+| `q3` (Weberian Bureaucracy) | Originally invoked Contingency Theory (II-D). | **Revised** — removed Contingency Theory; now rests on Weber + Merton only. No badge. |
+| `q5` (Multi-Metaphorical Diagnosis) | Entirely built on Morgan's metaphors (Division III). | Marked `outOfScope: true`. |
+| `q10` (PIME Administrative Lifecycle) | Entirely built on PIME (Division IV). | Marked `outOfScope: true`. |
+| `q14` (Contingency Perspective) | Entirely built on II-D. | No change — already in D2D; marked `outOfScope: true`. |
+| `q15` (Grand Theoretical Synthesis) | Synthesizes Systems + Contingency (II-C through II-D). | Marked `outOfScope: true`. |
+
+All other questions (`q1`, `q2`, `q4`, `q6`, `q7`, `q8`, `q9`, `q11`, `q12`, `q13`) rest on topics at or before the Drucker cutoff and carry no scope badge.
+
+### 3.4 Verification Notes and Honest Limitations
+
+- **Drucker/MBO in lecture notes:** The local `PA 111 NOTES.pdf` extract and `docs/NOTES_EXTRACT.txt` contain **no** matches for "Drucker" or "MBO". The Consolidated Notes (`CONS`) and Reading Set 1 (`RS1`) are the only sources that substantiate Drucker's inclusion. This means the precise lecture date of the MBO coverage could not be independently confirmed from the available notes; the cutoff is accepted on the basis of the user's confirmation and the syllabus/reading-set placement.
+- **Chaos/Complexity Theory** appears in `docs/CONSOLIDATED_EXTRACT.txt` (lines 526–528) and in the Consolidated Reviewer's II-D.2, but **not** in `NOTES_EXTRACT.txt` or `REVIEWER_EXTRACT.txt`. Its placement after Drucker is inferred from the syllabus ordering, not from a dated lecture slide.
+- **Morgan's metaphors, PIME, and the Contingency/Chaos sections** are absent from the lecture-note extract. Their presence in the reviewer rests on the Consolidated Notes and the senior exam reviewer.
+- **No claim is made** that this scope boundary reflects a verbatim lecture-date cutoff. It is the best available reconstruction from the materials inspected.
+
+---
+
+## 4. Coverage Audit Verification Summary
 
 - **Total Prescribed Authors / Concepts Audited:** 38 distinct theorists, civilizations, and analytical models.
 - **Coverage Rate:** **100%** of Reading Set 1 prescribed readings, Consolidated Notes topics, and Senior Lecture concepts are substantively accounted for with dedicated exposition, historical context, and critical evaluations.
-- **Essay Question Mapping:** All 15 practice questions in `src/data/questions.ts` are linked directly to specific syllabus divisions, primary theories, and verified source citations.
+- **Essay Question Mapping:** All 15 practice questions in `src/data/questions.ts` are linked directly to specific syllabus divisions, primary theories, and verified source citations. Four questions (`q5`, `q10`, `q14`, `q15`) are flagged as beyond the confirmed Drucker/MBO exam cutoff; `q3` was revised to remove its Contingency Theory dependency so it remains in scope.
 - **Canonical Consistency:** `docs/SOURCE_AUDIT.md`, `source-materials/PA111_CONSOLIDATED_REVIEWER.md`, `src/data/questions.ts`, and the interactive frontend routes (`/reviewer`, `/syllabus`, `/topics/:id`, `/connections`, `/essay-questions`, `/essay`) form a unified, synchronized academic system.

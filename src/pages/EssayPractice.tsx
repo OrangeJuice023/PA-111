@@ -187,7 +187,7 @@ export default function EssayPractice() {
                     <option value="">-- Choose an exam prompt from the bank --</option>
                     {questions.map((q) => (
                       <option key={q.id} value={q.id}>
-                        {q.id.toUpperCase()}: {q.title} ({q.difficulty})
+                        {q.id.toUpperCase()}: {q.title} ({q.difficulty}){q.outOfScope ? ' — beyond exam cutoff' : ''}
                       </option>
                     ))}
                   </select>
@@ -203,6 +203,9 @@ export default function EssayPractice() {
                   <span className={`badge-diff ${activeQuestion.difficulty.toLowerCase()}`}>
                     {activeQuestion.difficulty}
                   </span>
+                  {activeQuestion.outOfScope && (
+                    <span className="scope-badge">Possible not included in the exam</span>
+                  )}
                   {activeQuestion.theories?.map((t, idx) => (
                     <span key={idx} className="badge-theory">{t}</span>
                   ))}

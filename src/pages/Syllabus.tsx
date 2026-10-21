@@ -179,9 +179,16 @@ export default function Syllabus() {
           {/* II-D Emerging Perspectives */}
           <div className="subschool-container">
             <div className="subschool-title">
-              <h3>II-D. Emerging Perspectives (Contingency & Complexity)</h3>
+              <div className="scope-badge-heading">
+                <h3>II-D. Emerging Perspectives (Contingency & Complexity)</h3>
+                <span className="scope-badge">Possible not included in the exam</span>
+              </div>
               <Link to="/reviewer#ii-d-emerging-management-perspectives" className="subschool-link">Reviewer Chapter &rarr;</Link>
             </div>
+            <p className="scope-note">
+              <strong>Exam scope note:</strong> The confirmed exam cutoff ends at Peter F. Drucker's Management by Objectives (II-C.7). 
+              II-D (Contingency & Chaos/Complexity Theory) falls after that cutoff and is retained here for complete course coverage.
+            </p>
             <div className="topics-list">
               <div className="topic-item">
                 <div className="topic-info">
@@ -205,12 +212,15 @@ export default function Syllabus() {
           <div className="division-header">
             <div className="div-title-group">
               <span className="div-number">Division III</span>
-              <h2>Metaphors of Organization</h2>
+              <h2>Metaphors of Organization <span className="scope-badge">Possible not included in the exam</span></h2>
             </div>
             <Link to="/reviewer#division-iii--metaphors-of-organization" className="btn-reviewer-jump">
               📖 Read Full Division in Reviewer &rarr;
             </Link>
           </div>
+          <p className="scope-note">
+            <strong>Exam scope note:</strong> Gareth Morgan's metaphors fall after the confirmed Drucker (MBO) cutoff and are retained for complete course coverage.
+          </p>
           <p className="div-summary">
             Gareth Morgan’s master framework (*Images of Organization*). Explores how metaphors serve as cognitive lenses that illuminate specific organizational features while casting others into shadow.
           </p>
@@ -236,12 +246,15 @@ export default function Syllabus() {
           <div className="division-header">
             <div className="div-title-group">
               <span className="div-number">Division IV</span>
-              <h2>Functions of Administration</h2>
+              <h2>Functions of Administration <span className="scope-badge">Possible not included in the exam</span></h2>
             </div>
             <Link to="/reviewer#division-iv--functions-of-administration" className="btn-reviewer-jump">
               📖 Read Full Division in Reviewer &rarr;
             </Link>
           </div>
+          <p className="scope-note">
+            <strong>Exam scope note:</strong> The PIME administrative lifecycle falls after the confirmed Drucker (MBO) cutoff and is retained for complete course coverage.
+          </p>
           <p className="div-summary">
             The continuous administrative lifecycle: Planning, Implementation, Monitoring, and Evaluation (PIME), 
             distinguished from Fayol's internal executive elements (POCCC).

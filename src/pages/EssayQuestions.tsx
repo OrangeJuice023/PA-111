@@ -10,6 +10,7 @@ export default function EssayQuestions() {
   const [search, setSearch] = useState('')
   const [divisionFilter, setDivisionFilter] = useState('')
   const [difficultyFilter, setDifficultyFilter] = useState('')
+  const [showOutOfScope, setShowOutOfScope] = useState(true)
   const [expanded, setExpanded] = useState<string[]>([])
   const [copiedId, setCopiedId] = useState<string | null>(null)
 
@@ -26,9 +27,10 @@ export default function EssayQuestions() {
         (q.theories && q.theories.some((t) => t.toLowerCase().includes(s)))
       const matchesDivision = divisionFilter ? q.divisionId === divisionFilter : true
       const matchesDifficulty = difficultyFilter ? q.difficulty === difficultyFilter : true
-      return matchesSearch && matchesDivision && matchesDifficulty
+      const matchesScope = showOutOfScope || !q.outOfScope
+      return matchesSearch && matchesDivision && matchesDifficulty && matchesScope
     })
-  }, [questions, search, divisionFilter, difficultyFilter])
+  }, [questions, search, divisionFilter, difficultyFilter, showOutOfScope])
 
   const copyText = (text: string, id: string) => {
     try {
@@ -140,6 +142,15 @@ export default function EssayQuestions() {
               </button>
             )}
           </div>
+
+          <label className="scope-toggle">
+            <input
+              type="checkbox"
+              checked={showOutOfScope}
+              onChange={(e) => setShowOutOfScope(e.target.checked)}
+            />
+            Show questions that fall after the Drucker (MBO) exam cutoff
+          </label>
         </section>
 
         {/* Empty State */}
@@ -166,6 +177,9 @@ export default function EssayQuestions() {
                     <span className={`difficulty-pill ${q.difficulty.toLowerCase()}`}>
                       {q.difficulty}
                     </span>
+                    {q.outOfScope && (
+                      <span className="scope-badge">Possible not included in the exam</span>
+                    )}
                   </div>
                   <h2 className="question-title">{q.title}</h2>
                   {q.theories && q.theories.length > 0 && (
