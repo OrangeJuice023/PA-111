@@ -4,16 +4,12 @@
   note?: string;
 }
 
-export interface Comparison {
+export interface Division {
+  divisionId: string;
   title: string;
-  a: string;
-  b: string;
-  points: string[];
-}
-
-export interface Relationship {
-  toTopicId: string;
-  relation: string;
+  order: number;
+  description: string;
+  sources: SourceRef[];
 }
 
 export interface Concept {
@@ -31,22 +27,18 @@ export interface Topic {
   order: number;
   overview: string;
   keyConcepts: Concept[];
-  definitions: Array<{ term: string; definition: string; source?: SourceRef[] }>;
-  relationships: Relationship[];
-  comparisons: Comparison[];
+  definitions: Array<{term: string; definition: string}>;
+  assumptions?: string[];
+  strengths?: string[];
+  limitations?: string[];
   applications: string[];
   examples: string[];
+  comparisons?: Array<{title: string; a: string; b: string; points: string[]}>;
+  relationships?: Array<{toTopicId: string; relation: string}>;
   sources: SourceRef[];
   syllabusAligned: boolean;
+  prescribed?: boolean;
   confidence: 'high' | 'med' | 'low';
-  notes: string[];
-  placeholders: string[];
-}
-
-export interface Division {
-  divisionId: string;
-  title: string;
-  order: number;
-  description: string;
-  sources: SourceRef[];
+  notes?: string[];
+  placeholders?: string[];
 }

@@ -1,4 +1,4 @@
-﻿import { Link, NavLink, Outlet } from 'react-router-dom'
+import { Link, NavLink, Outlet } from 'react-router-dom'
 import './Layout.css'
 
 function Layout() {
@@ -10,6 +10,7 @@ function Layout() {
           <ul className="nav-list">
             <li><NavLink to="/" end className={({isActive})=>isActive?'nav-link active':'nav-link'}>Home</NavLink></li>
             <li><NavLink to="/syllabus" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Syllabus</NavLink></li>
+            <li><NavLink to="/reviewer" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Canonical Reviewer</NavLink></li>
             <li><NavLink to="/essay-questions" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Possible Essay Exam Questions</NavLink></li>
             <li><NavLink to="/connections" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Concept Connections</NavLink></li>
             <li><NavLink to="/essay" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Essay Practice</NavLink></li>

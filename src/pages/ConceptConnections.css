@@ -1,42 +1,145 @@
-﻿.connections {
-  padding: 2rem 0;
+/* Concept Connections Styles */
+
+.connections-page {
+  background-color: var(--bg-primary, #F8F6F0);
+  min-height: 100vh;
+  padding: 2.5rem 0 4rem;
 }
 
 .connections-section {
-  display: grid;
-  gap: 1.5rem;
-  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-bottom: 2.5rem;
 }
 
-.connections-section h2 {
-  color: var(--accent-primary);
+.connection-card {
+  background-color: #FFFDF8;
+  border: 1px solid var(--border-color, #D9D2C5);
+  border-radius: 8px;
+  padding: 1.75rem 2rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
+}
+
+.connection-card.highlight-left {
+  border-left: 4px solid var(--accent-primary, #596B50);
+}
+
+.conn-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+  border-bottom: 1px solid var(--border-color, #D9D2C5);
+  padding-bottom: 0.5rem;
+}
+
+.conn-header h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--text-primary, #30352E);
+  margin: 0;
+}
+
+.conn-link {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent-primary, #596B50);
+  text-decoration: none;
+}
+
+.conn-link:hover {
+  text-decoration: underline;
+}
+
+.conn-desc {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text-secondary, #6C7067);
+  margin-bottom: 1.25rem;
+}
+
+/* Comparison Tables */
+.comparison-table-wrapper {
+  overflow-x: auto;
+  margin-top: 1rem;
+}
+
+.mini-comp-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  background-color: #FFFDF8;
+  border: 1px solid var(--border-color, #D9D2C5);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.mini-comp-table th {
+  background-color: var(--bg-secondary, #EDE7DA);
+  color: var(--text-primary, #30352E);
+  font-weight: 600;
+  text-align: left;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border-color, #D9D2C5);
+  white-space: nowrap;
+}
+
+.mini-comp-table td {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border-color, #D9D2C5);
+  line-height: 1.55;
+  color: var(--text-primary, #30352E);
+}
+
+.mini-comp-table tr:nth-child(even) td {
+  background-color: #FAF8F4;
+}
+
+.connection-card ul {
+  padding-left: 1.5rem;
+  margin: 0;
+}
+
+.connection-card li {
+  font-size: 0.93rem;
+  line-height: 1.65;
+  color: var(--text-primary, #30352E);
   margin-bottom: 0.75rem;
 }
 
-.connections-section ul {
-  list-style: disc;
-  margin-left: 1.5rem;
+/* Strategy Callout */
+.essay-strategy-callout {
+  background-color: var(--bg-secondary, #EDE7DA);
+  border: 1px solid var(--border-color, #D9D2C5);
+  border-radius: 8px;
+  padding: 2rem 2.25rem;
 }
 
-.connections-section li {
-  color: var(--text-secondary);
-  margin-bottom: 0.5rem;
+.essay-strategy-callout h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-primary, #30352E);
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
-.strategy-section h2 {
-  color: var(--accent-primary);
+.strategy-numbered-list {
+  padding-left: 1.5rem;
+  margin: 0 0 1.5rem;
+}
+
+.strategy-numbered-list li {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--text-primary, #30352E);
   margin-bottom: 0.75rem;
 }
 
-.strategy-section ol {
-  margin-left: 1.5rem;
-}
-
-.strategy-section li {
-  color: var(--text-secondary);
-  margin-bottom: 0.5rem;
-}
-
-.note-text {
-  margin-top: 0.75rem;
+.callout-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
