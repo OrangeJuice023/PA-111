@@ -1,0 +1,723 @@
+===PAGE 1===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  1
+PA 111
+Management of Organizations
+Consolidated Notes
+Organized according to the course syllabus
+Essay-oriented reviewer
+Core approach: explain each theory, connect it to the theories that came before 
+or after it, and show what it helps managers understand - including its limits.
+Consolidated from the notes and lecture slides provided through October 9
+
+===PAGE 2===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  2
+Syllabus Map
+The notes follow the four divisions named in the syllabus. Lecture-day labels are not used as the main 
+structure, so related ideas stay together for essay writing.
+1.History of Administration - historical origins, the management discipline, and organization in 
+management.
+2.Evolution of Management Thought - Classical School, Human Relations School, Modern School, and 
+Emerging Management Perspectives.
+3.Metaphors of Organization - organizations as machines, organisms, brains, political systems, and other 
+useful lenses.
+4.Functions of Administration - planning, implementation, monitoring, and evaluation.
+How to use these notes for essay exams
+Avoid treating the theories as isolated definitions. A stronger essay explains the problem a theory responds 
+to, the part of organizational life it clarifies, and the limits that led managers or later theorists to look beyond 
+it. For example, Taylor explains how measured standards can improve efficiency; Human Relations shows 
+why social relationships and employee needs also affect performance; the Systems and Contingency 
+approaches then explain why both people and processes must be understood within a larger setting.
+Essay pattern:  Make a clear claim, explain the relevant theory, connect or contrast it with another 
+theory, apply both to a concrete organizational situation, and end with a qualified conclusion about when 
+each approach is useful.
+
+===PAGE 3===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  3
+SYLLABUS DIVISION
+1. History of Administration
+Historical origins • The management discipline • Organization in management
+1.1 Administration and management as long-standing practices
+Management did not begin when it became an academic subject. Large collective undertakings required 
+people to plan work, divide responsibilities, coordinate resources, direct workers, and check results long 
+before modern management theories existed. The construction of the Egyptian pyramids, irrigation and 
+waterway systems, roads, bridges, the Great Wall of China, and Roman public works all depended on 
+organized labor and administration.
+The important distinction is between management as a practice and management as a formal discipline. 
+Societies had administrative practices for thousands of years; systematic theories developed later as 
+organizations, trade, and production became more complex. Studying history therefore helps explain why 
+present-day management emphasizes coordination, rules, specialization, records, authority, and 
+performance.
+1.2 Early administrative contributions
+Contributor / setting Contribution to administration Connection to later management 
+thought
+Sumerians Writing and trade records supported 
+transactions and coordination.
+Written information is an early basis for 
+accountability and organizational 
+memory.
+Hammurabi Written commands and controls 
+formalized expectations.
+Rules can make conduct more 
+consistent, but later critiques ask 
+whether rules always serve their 
+purpose.
+Nebuchadnezzar Incentives were used to encourage 
+performance.
+Anticipates later debates over how 
+rewards influence effort.
+Ancient Egypt Division of labor, coordination, span of 
+control, taxation, irrigation, religion, and 
+the army required organized 
+administration.
+Shows the practical need to align 
+people, resources, and authority.
+Sun Tzu Emphasized communication, 
+coordination, and strategic 
+organization.
+Management involves coordinated 
+action, not simply individual effort.
+Han dynasty China Bureaucracy developed through trained 
+scholars and examinations based on 
+Confucian learning.
+Connects administration with 
+professional qualification and merit-
+based selection.
+Ancient Greeks Plato recognized differences among 
+people and the usefulness of division of 
+labor; Socrates emphasized 
+information-sharing and analysis.
+Work can be arranged according to 
+capability, while judgment improves 
+through discussion.
+Romans Standardization supported 
+administration across a large territory.
+Common procedures can improve 
+consistency across dispersed units.
+Micius Argued that a system can help people 
+achieve consistent results even when 
+they lack individual dexterity.
+A method or model can make 
+performance less dependent on one 
+person’s skill.
+Italian Renaissance Expanding trade, accounting, 
+corporations, and long-distance 
+commercial activity increased the need 
+for professional management.
+Complex enterprises require records, 
+coordination, and dedicated managers.
+
+===PAGE 4===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  4
+These examples show that administration developed as a response to practical collective problems. Written 
+rules, division of labor, incentives, and standardized processes each solved a different coordination 
+problem; none alone explains every aspect of an organization.
+1.3 Trade, specialization, and the emergence of the management discipline
+Adam Smith’s account of division of labor explained how specialization can increase output. When workers 
+concentrate on separate stages of production, they can become proficient in a narrower task, reduce the 
+time spent switching between tasks, and lower training costs. The same arrangement, however, creates a 
+greater need for coordination: specialized activities must be brought together for the organization to 
+produce a complete result.
+Charles Babbage later developed this logic by arguing that task complexity should be matched to the level 
+of skill required. Highly trained and expensive workers should be assigned to tasks that genuinely require 
+their expertise, while routine steps can be performed by workers with less specialized training. This can 
+reduce costs and make work easier to standardize or mechanize. It also raises a recurring issue: efficiency 
+gains must be weighed against the quality and meaning of work.
+The spread of printing, expanding trade, new commercial wealth, accounting, and more complex 
+enterprises helped create demand for professional managerial roles. Management became a more explicit 
+subject of study as organizations needed repeatable methods for organizing work across many people and 
+activities.
+1.4 Public administration and the study of administration
+Public administration has always existed as part of government, but Woodrow Wilson observed that 
+administration received less intellectual attention than its practical importance warranted. Administration is 
+the operational work through which public decisions are carried out. It deserves systematic study because 
+government objectives depend on how authority, personnel, procedures, and resources are organized in 
+practice.
+The history of public administration also shows that administration is shaped by its environment. 
+Waterways, taxation, military affairs, public infrastructure, and services create different technical and social 
+demands. This historical variation prepares the ground for a central theme in modern management: an 
+organizational arrangement should be judged not only by its internal design but also by the problem it must 
+solve and the context in which it operates.
+1.5 Organization and management
+An organization is a structured arrangement of people, activities, responsibilities, and resources brought 
+together to achieve objectives. Management is the process of directing and coordinating those resources 
+and activities so the objectives can be achieved effectively and efficiently. The two concepts are connected 
+but not identical: organization concerns how the parts are arranged, while management concerns how 
+those parts are guided and coordinated over time.
+Organizations may be public, private, or nonprofit. They differ in purpose, accountability, resources, and the 
+people they serve, yet all must coordinate work, make decisions, motivate participants, respond to 
+conditions, and assess results. Public organizations, in particular, cannot define performance only in terms 
+of profit; they must also consider public purpose, fairness, legality, and service quality.
+Connection to the next division:  Historical practice established recurring problems - efficiency, 
+coordination, authority, cooperation, and adaptation. The evolution of management thought can be read 
+as a series of different answers to those problems.
+
+===PAGE 5===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  5
+SYLLABUS DIVISION
+2. Evolution of Management Thought
+Classical School • Human Relations School • Modern School • Emerging 
+Management Perspectives
+The course uses four broad schools to organize the evolution of management thought. The progression is 
+useful as a guide, but it is not a simple story in which each newer school makes the previous one irrelevant. 
+Classical theories explain important requirements of structure and efficiency; Human Relations theories add 
+social and psychological dimensions; Modern theories examine interdependence and evidence; Emerging 
+perspectives stress context, uncertainty, and change.
+School Main concern Question it helps answer
+Classical Work design, efficiency, authority, 
+specialization, and formal structure.
+How should work and authority be 
+organized so an organization can 
+perform reliably?
+Human Relations Social relationships, employee needs, 
+motivation, groups, and development.
+Why do people behave differently at 
+work, and what conditions support their 
+effort?
+Modern Evidence, interconnected systems, 
+inputs, processes, outputs, and 
+feedback.
+How do organizational parts affect one 
+another, and how can performance be 
+understood as a whole?
+Emerging perspectives Situational fit, complexity, uncertainty, 
+and continuous adaptation.
+How should management respond 
+when circumstances differ or outcomes 
+are difficult to predict?
+2.1 Classical School
+The Classical School concentrates on rational organization: divide work, define responsibilities, establish 
+authority, create procedures, and improve the use of time and resources. Its lasting contribution is the 
+recognition that organizational performance is not automatic; it depends on deliberate design. Its limitation 
+appears when efficiency and formal control are treated as sufficient explanations of human behavior.
+Division of labor: Adam Smith and Charles Babbage
+Smith argued that specialization can expand production because workers become more proficient at 
+individual tasks. Babbage developed the argument by matching the skill required for a task with the level of 
+labor needed to perform it. Together, these ideas explain lower training costs, less idle time, and the 
+possibility of mechanization. However, fragmented work creates dependencies between specialized stages, 
+so the organization needs coordination and must consider whether repetitive roles limit initiative or interest.
+Henry Metcalfe: administration through records
+At Frankford Arsenal, Henry Metcalfe encountered inadequate written production records. He promoted 
+systematic records of events and work, including a card system that allowed information to be classified and 
+consolidated. His view was that administration could be studied by recording what happens, identifying 
+patterns, and learning from experience. The useful distinction is: Metcalfe emphasizes recording 
+organizational activity; Taylor emphasizes measuring work performance against standards.
+Frederick Winslow Taylor: Scientific Management
+Taylor argued that work should not depend mainly on habit, guesswork, or a “rule of thumb.” Managers 
+should study each task systematically, determine an effective method, select and train workers for the work, 
+and connect performance to clear standards and incentives. Scientific Management was intended to require 
+a “mental revolution” by both managers and workers: instead of fighting over how a fixed surplus is divided, 
+they should cooperate to increase the total surplus through higher productivity.
+Taylor identified soldiering - workers deliberately limiting their pace - as a problem. He argued that worker 
+behavior could be affected by fear that higher output would threaten jobs, as well as by management 
+
+===PAGE 6===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  6
+practices that failed to reward productive effort. His response was to study work and create reliable 
+standards. In the Bethlehem Steel experiments, work was divided into elements and timed; in the shovel 
+experiment, the appropriate load was identified as about 21 pounds. The lecture reports that the cost of 
+shoveling per ton fell from roughly 7–8 cents to 3–4 cents, even after accounting for additional 
+administrative and equipment costs.
+Taylor’s four principles
+5.Develop a science for each element of work instead of relying on informal rules of thumb.
+6.Scientifically select, train, and develop workers so their abilities fit the work.
+7.Bring the scientifically developed method and the properly selected worker together.
+8.Divide responsibility: management plans and develops methods, while workers perform the work with 
+appropriate training and support.
+Time study supplies the evidence for a standard; the standard makes performance measurable; 
+measurement can then be connected to rewards. Taylor’s differential piece-rate system gives a higher rate 
+for meeting the required standard and a lower rate for falling below it. This is meant to encourage output 
+and quality, although a system that relies too heavily on quotas or penalties can encourage gaming, conflict, 
+or unsafe behavior.
+Taylor also argued that scientific methods must be improved when evidence supports a better approach. A 
+standard is not necessarily permanent: a proposed method should be tested, compared with the current 
+method, and adopted if it works better. Scientific Management therefore contains a potential cycle of 
+measurement and continuous improvement, not merely a demand to work faster.
+Gantt: training, leadership, and the task-and-bonus system
+Henry L. Gantt built on the classical concern with productivity but placed greater emphasis on teaching and 
+leading workers. In the task-and-bonus system, an instructor helps develop the required knowledge and 
+habits, a clear task gives the worker a standard, and a bonus rewards attainment. Compared with Taylor’s 
+differential piece-rate system, Gantt’s approach retained a day wage and added a bonus for meeting the 
+task, with a higher piece-rate possible when output exceeded the standard.
+Gantt’s contribution provides a bridge within the classical tradition toward later attention to people: 
+managers should not only set standards and measure work; they should teach, develop, and cooperate with 
+workers. His discussion of business responsibility also invites a broader question than profit alone: whether 
+the organization’s activity serves the community. A manager therefore needs to consider both technical 
+performance and the human and social consequences of the way work is organized.
+Church and Alford: Systematic Management
+Alexander Hamilton Church and Leon P. Alford emphasized methodical organization of work and the 
+integration of operations with cost accounting. By tracking how resources and expenses relate to production 
+stages, management can understand not only whether output is increasing but also where costs arise. Their 
+approach can be understood as analytical and systematic while retaining a need to accommodate people 
+and operating conditions. It illustrates that careful measurement and financial control need not mean 
+ignoring context or relationships.
+Henri Fayol: Administrative Management
+Fayol shifted attention from the individual task to general management across the organization. He 
+identified six broad industrial activities: technical production; commercial buying and selling; financial 
+acquisition and use of capital; security of people and property; accounting; and managerial activity. His core 
+managerial functions are commonly summarized as planning, organizing, commanding or directing, 
+coordinating, and controlling. The essential point is that managing a whole enterprise requires more than 
+improving one worker’s task; activities and departments must be aligned.
+Fayol’s fourteen principles provide a vocabulary for that alignment:
+9.Division of work: Specialization can improve proficiency.
+10. Authority and responsibility: The right to direct must be matched by accountability.
+11. Discipline: Rules and agreements must be fairly observed.
+12. Unity of command: An employee should receive direct orders from one supervisor.
+13. Unity of direction: Activities with one objective should follow one coordinated plan.
+14. Subordination of individual interests: Private interests should not undermine the organization’s 
+legitimate common purpose.
+
+===PAGE 7===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  7
+15. Remuneration: Compensation should be fair in relation to the work and circumstances.
+16. Centralization: The balance between central and subordinate decision-making depends on the 
+situation.
+17. Scalar chain: Authority should follow a recognizable line, with practical communication across 
+levels when needed.
+18. Order: People and materials should be placed appropriately for the work.
+19. Equity: Managers should combine fairness and kindness in treatment.
+20. Stability of tenure: Reasonable continuity helps retain experience and avoid needless disruption.
+21. Initiative: Employees should have opportunities to propose and carry out ideas.
+22. Esprit de corps: Team spirit and cooperation support organizational unity.
+Fayol’s principles are useful guidelines, not a substitute for judgment. Unity of command may prevent 
+conflicting instructions, for example, but highly specialized or project-based work can require cross-
+functional cooperation. Fayol himself recognized that the appropriate balance between centralization and 
+decentralization depends on context, a point that links classical administration to the Contingency 
+Perspective.
+Max Weber: bureaucracy and legitimate authority
+Weber’s ideal type of bureaucracy organizes authority through formal rules and offices rather than through 
+personal favor. Its characteristic features include specialization, hierarchy, written records, clearly defined 
+duties, technical qualifications, impersonal rules, a career structure, and a separation between the office 
+and the private property of the officeholder. The official obeys the impersonal order attached to the office, 
+not simply the personal wishes of whoever occupies it. Weber associated this structure with rational-legal 
+authority.
+Weber distinguished three bases of legitimate authority: rational-legal authority (belief in formal rules and 
+offices), traditional authority (custom and established tradition), and charismatic authority (belief in a 
+leader’s exceptional qualities). These are categories of legitimacy; they should not be confused with the 
+structural characteristics of bureaucracy.
+Bureaucracy can support continuity, predictability, specialization, documented decisions, and equal 
+treatment under rules. In public administration, these features help constrain arbitrary personal power and 
+make official conduct reviewable. However, the ideal type should not be mistaken for a guarantee of good 
+administration. Formal authority may conflict with professional expertise (Parsons); the attitudes of 
+employees toward rules matter (Bendix); responsibility, values, and consultation also matter (Corpuz and 
+Friedrich); and cooperation may sometimes support productivity better than competition over individual 
+performance records (Blau).
+Other critiques expose dysfunctional consequences. Robert Merton explains how rules can become ends in 
+themselves: employees may comply with procedure even when doing so undermines the original goal. 
+Philip Selznick shows that subunits can pursue their own goals at the expense of the organization as a 
+whole. Herbert Simon argues against the idea of one perfect administrative structure, emphasizing that 
+different situations require different arrangements. These criticisms do not make rules useless; they show 
+that rules need to remain connected to purpose, expertise, responsibility, and context.
+Classical School: overall contribution and limitation
+The Classical School supplied organizations with methods for dividing work, recording activity, setting 
+standards, clarifying authority, coordinating departments, and maintaining continuity. Its limitation is the 
+temptation to treat workers mainly as instruments of production or to assume that a formally rational 
+arrangement will automatically produce effective outcomes. The Human Relations School grew partly from 
+the recognition that informal groups, social expectations, satisfaction, and employee development affect the 
+way formal systems actually work.
+Classical-school essay link:  Taylor asks how work can be measured and standardized; Fayol asks 
+how management can coordinate the enterprise; Weber asks how authority can be made impersonal 
+and predictable. Their approaches complement one another, but their limits become visible when 
+workers’ social needs, professional judgment, and changing circumstances are ignored.
+
+===PAGE 8===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  8
+2.2 Human Relations School and motivation
+The Human Relations School shifts the explanation of organizational performance toward people’s 
+attitudes, relationships, informal groups, morale, and motivation. It does not mean that structure, standards, 
+or pay no longer matter. Rather, it argues that technical conditions and economic incentives cannot fully 
+explain what employees do. Organizations are social systems as well as systems for producing goods or 
+services.
+The Hawthorne Investigation
+The Hawthorne studies at Western Electric’s Hawthorne Works in Chicago ran from 1927 to 1932 and 
+involved researchers including Elton Mayo and Fritz Roethlisberger. The illumination experiments explored 
+whether changes in light affected output; the relay assembly test room considered working hours, rest 
+periods, conditions, and group relations; the interviewing program explored employee attitudes; and the 
+bank wiring test room examined behavior under relatively normal working conditions. Productivity changes 
+could not be explained by physical conditions alone.
+The studies contributed to the Human Relations Movement by drawing attention to informal groups, group 
+norms, employee attitudes, participation, two-way communication, cooperation, and morale. The often-used 
+term “Hawthorne effect” refers to the possibility that people change their behavior when they know they are 
+being observed or given special attention. For essay purposes, the broader lesson is safer and more useful 
+than claiming that attention alone explains productivity: managers must study the social context of work as 
+well as the task and physical setting.
+Maslow: hierarchy of needs
+Maslow proposed five broad levels of need: physiological needs (food, rest, and basic survival), safety 
+(security and stability), love and belonging (relationships and acceptance), esteem (respect, competence, 
+achievement, and recognition), and self-actualization (developing one’s potential). The model suggests that 
+unmet needs influence behavior and that people may shift attention as needs become sufficiently satisfied. 
+It is a useful framework for understanding why wages alone may not motivate every employee. It should not 
+be treated as a rigid sequence that applies identically to every person or situation.
+Herzberg: Two-Factor Theory
+Herzberg distinguishes hygiene factors from motivators. Hygiene factors - such as salary, working 
+conditions, security, policy, supervision, and workplace relations - help prevent dissatisfaction when 
+adequate, but their presence does not necessarily create strong motivation. Motivators - such as 
+achievement, recognition, responsibility, growth, and meaningful work - are more directly connected to 
+satisfaction and the desire to perform. The managerial implication is to address poor conditions while also 
+designing work that offers achievement and development.
+McGregor: Theory X and Theory Y
+Theory X assumes that employees tend to dislike work, avoid responsibility, and require close control or 
+external pressure. Theory Y assumes that work can be natural and satisfying, and that employees may 
+seek responsibility and use creativity when conditions support them. These are not fixed types of people; 
+they are contrasting managerial assumptions. A Theory X manager tends toward close direction and 
+control, while a Theory Y manager invests in participation, autonomy, and opportunities to develop. 
+Management assumptions can become self-reinforcing: a highly controlling environment may discourage 
+initiative, while a supportive one may help employees demonstrate responsibility.
+Argyris: personality and organization
+Chris Argyris examines how people may develop from relatively passive, dependent, and externally 
+controlled behavior toward greater activity, independence, confidence, self-control, flexibility, and 
+responsibility. Rigid structures, narrow repetitive jobs, limited delegation, and close supervision may restrict 
+this development. Argyris therefore recommends broadening responsibilities, increasing task variety, 
+allowing greater participation, and improving human relationships. When mature employees face restrictive 
+conditions, they may escape (for example, by resigning or being absent), fight (through individual or 
+collective resistance), or adapt by becoming apathetic and disengaged.
+Argyris connects Human Relations to organizational design: motivation is not only an individual trait; it is 
+also affected by how work and authority are arranged. This creates a useful contrast with narrow 
+
+===PAGE 9===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  9
+interpretations of classical specialization. Specialization can improve efficiency, but if it removes all 
+discretion and development, it can undermine engagement.
+Goal-Setting Theory
+Goal-Setting Theory holds that clear, specific, challenging, and measurable goals can direct effort and 
+improve performance, especially when accompanied by deadlines, feedback, and commitment. Goals 
+clarify what is expected; feedback helps employees understand progress and adjust their behavior. 
+Commitment is stronger when goals are communicated, accepted, consistent with organizational purpose, 
+and supported by confidence that the task can be performed. The slides refer to “self-efficiency”; the 
+commonly used term for confidence in one’s ability to perform a task is self-efficacy.
+Goal setting can fail when organizational and managerial goals conflict, when difficult goals encourage 
+excessive risk-taking, or when employees lack the skills and resources needed to achieve them. The 
+lecture also cautions against assuming that goal-setting by itself necessarily improves job satisfaction. 
+Challenging goals should therefore be matched to capability, support, and the organization’s broader 
+objectives.
+Equity Theory
+Equity Theory explains motivation through perceived fairness. People compare the outcomes they receive - 
+such as compensation, recognition, advancement, or self-worth - with their inputs, including effort, 
+commitment, enthusiasm, experience, loyalty, personal sacrifice, and flexibility. They may compare their 
+current situation with their own past experience inside or outside the organization, or with another person’s 
+experience inside or outside the organization.
+The comparison is relational rather than purely absolute. If a person believes that their outcome-to-input 
+ratio is lower than a reference person’s, they may feel under-rewarded; if the ratios appear equal, they 
+perceive equity; if their ratio appears higher, they may feel over-rewarded or experience tension. Both 
+perceived under-reward and over-reward can affect motivation. The managerial lesson is that reward 
+systems need to be fair and explainable, and managers must consider employees’ perceptions of workload, 
+recognition, and treatment rather than assuming that a reward has the same meaning for everyone.
+Alderfer: ERG Theory
+Alderfer groups needs into Existence, Relatedness, and Growth. Existence includes basic material and 
+physical safety needs; Relatedness includes significant interpersonal relationships and recognition; Growth 
+concerns personal development and the realization of potential. ERG Theory condenses Maslow’s five 
+categories into three and allows more than one need to be active at the same time.
+Its frustration-regression principle adds an important nuance: when a higher-level need is blocked, a person 
+may place greater emphasis on a lower-level need that seems more attainable. For example, an employee 
+who cannot obtain growth opportunities may become more concerned with pay, security, or workplace 
+relationships. ERG therefore offers a more flexible picture than a strictly step-by-step hierarchy.
+How the motivation theories fit together
+Theory Main question What managers should consider
+Hawthorne / Human Relations How do relationships and group norms 
+affect work?
+Informal groups, morale, communication, 
+participation, and social context.
+Maslow What needs are salient to this employee? Basic security, belonging, esteem, and 
+development may matter differently 
+across people.
+Herzberg What prevents dissatisfaction, and what 
+creates satisfaction?
+Adequate work conditions plus 
+meaningful work, recognition, and 
+achievement.
+Theory X / Theory Y What assumptions guide supervision? Whether control suppresses initiative or 
+supportive conditions encourage 
+responsibility.
+Argyris Does the organization allow employees to 
+mature and contribute?
+Task variety, autonomy, participation, 
+development, and responsibility.
+Goal-setting What directs effort toward performance? Specific goals, realistic challenge, 
+feedback, commitment, and capability.
+Equity Does the employee perceive treatment as Input-output balance and comparisons 
+
+===PAGE 10===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  10
+Theory Main question What managers should consider
+fair? with relevant reference people or past 
+experiences.
+ERG Which needs are active, and how does 
+frustration shift them?
+Existence, relatedness, and growth can 
+operate simultaneously; blocked growth 
+may redirect attention.
+Together, these theories show why there is no single motivational lever. Pay and security matter, but 
+employees also respond to social relationships, recognition, meaningful work, fair treatment, attainable 
+goals, and opportunities to develop. Motivation is shaped both by individual needs and by the organization’s 
+structure, leadership, and reward practices.
+Human Relations essay link:  Human Relations corrects the narrowest readings of classical 
+management by showing that employees are not simply units of labor. Goal-setting adds direction and 
+feedback, Equity adds perceived fairness, and ERG adds flexibility about which needs can motivate at 
+the same time. Effective management combines these insights rather than assuming one theory 
+explains every worker.
+2.3 Modern School: modern management theory and the Systems Approach
+Modern management theory treats organizations as complex arrangements whose performance depends 
+on evidence, employee behavior, processes, technology, and their environment. Compared with a narrow 
+focus on financial gain, modern management recognizes that employees may also work for satisfaction, 
+development, meaningful activity, and desired ways of life. Managers can use mathematical and statistical 
+techniques to diagnose problems, compare alternatives, and support decisions with data.
+The slides identify several benefits: modern approaches can boost productivity by analyzing performance; 
+aid decision-making by identifying problems and evaluating solutions; improve employee engagement by 
+considering varying needs; promote objectivity by using evidence rather than personal opinion alone; and 
+enable adaptability by recognizing internal and external influences. These benefits depend on how evidence 
+is interpreted and used; quantitative measures are tools for judgment, not replacements for it.
+Systems Approach
+The Systems Approach views an organization as a set of interconnected and interdependent parts working 
+toward common objectives. Ludwig von Bertalanffy introduced the systems idea in General Systems Theory 
+through the study of relationships between organisms and their environments; the approach was later 
+applied to business and administrative organizations. Rather than diagnosing one department in isolation, 
+managers ask how its actions affect the whole organization.
+Organizations are open systems because they exchange resources and information with their external 
+environment. Their basic model is: Inputs → Transformation Process → Outputs → Feedback. Inputs 
+include employees, money, materials, technology, information, and other resources. The transformation 
+process includes management, production, communication, and decision-making activities. Outputs include 
+products, services, performance, customer satisfaction, and other results. Feedback is information about 
+performance that helps managers correct problems and improve the system.
+Departments are subsystems. In a manufacturing organization, purchasing obtains materials, production 
+transforms them, and sales connects finished output to customers. A supply failure can delay production 
+and then affect sales; a sales forecast can also change purchasing and production plans. These 
+dependencies illustrate interdependence. A holistic perspective therefore considers the whole; attention to 
+the external environment recognizes customers, competitors, regulation, technology, and economic 
+conditions; feedback and adaptation help the organization adjust; and common objectives give the parts a 
+shared direction.
+The Systems Approach is different from simply drawing an organization chart. Its main claim is that the 
+relationships among components are as important as the components themselves. It helps explain why 
+optimizing one department can harm overall performance if the department’s decisions create problems 
+elsewhere.
+
+===PAGE 11===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  11
+Modern management and Systems Approach: relationship
+Modern management is the broader orientation toward evidence, people, and organizational complexity. 
+The Systems Approach is one perspective within that orientation: it directs attention to interdependence, 
+open-system relationships, and feedback. The two reinforce each other because evidence about outputs 
+and the environment can be used to diagnose where the system is failing and where changes are needed.
+2.4 Emerging Management Perspectives
+Contingency Perspective
+The Contingency Perspective builds on the Systems Approach but adds that management decisions must 
+fit the circumstances. It rejects the idea that one method works equally well in every organization or 
+situation. Associated in the lecture with Fred Fiedler, the perspective asks managers to analyze the 
+situation before selecting a structure, leadership style, control system, or operating practice.
+Relevant contingencies include the nature of the task, the size of the organization, employee skills and 
+experience, organizational structure, technology, external environment, leadership situation, goals, and 
+available resources. A highly competitive or rapidly changing industry may require flexibility, while a stable 
+setting may allow more routine procedures and structured operations. The point is not that flexible 
+management is always best; it is that the approach should fit the task and environment.
+Its advantages include flexibility, closer attention to differences among organizations, stronger responses to 
+environmental change, and more informed decision-making. Its limitations are practical: it can be difficult to 
+identify every relevant factor, managers may disagree on which approach fits best, analyzing alternatives 
+takes time and resources, and the perspective provides no simple formula for solving every problem.
+Chaos Theory
+Chaos Theory highlights complexity, sensitivity to initial conditions, and the limits of prediction. Henri 
+Poincaré’s work is associated with the insight that small differences in starting conditions can lead to large 
+differences in later outcomes. Meteorologist Edward Lorenz’s “Butterfly Effect” illustrates the same idea: a 
+small change in one part of a complex system may contribute to substantial effects elsewhere. The point is 
+not that every small event causes a crisis, but that interconnected systems can amplify some changes in 
+ways that are difficult to forecast.
+Organizations are complex because people, departments, technologies, markets, customers, competitors, 
+and processes interact. They experience continuous change; small errors or decisions can have large 
+effects; and managers cannot always predict outcomes precisely. At the same time, employees and teams 
+may self-organize, develop new working patterns, and innovate without detailed instructions for every 
+action.
+For managers, Chaos Theory supports flexibility rather than dependence on rigid plans alone. Managers 
+should encourage experimentation, respond quickly to emerging changes, accept uncertainty as part of 
+organizational life, empower employees when appropriate, monitor emerging trends, and develop resilience 
+so the organization can recover from unexpected events. This does not eliminate planning; it means plans 
+need room for learning and revision.
+How Systems, Contingency, and Chaos work together
+Perspective Primary insight Managerial response
+Systems Approach The organization is an open system 
+whose parts are interdependent.
+Map inputs, processes, outputs, 
+feedback, and relationships among 
+subsystems.
+Contingency Perspective The right management approach 
+depends on the situation.
+Assess the task, people, structure, 
+technology, resources, and 
+environment before choosing a 
+method.
+Chaos Theory Complex systems can change 
+unpredictably; small events may have 
+large effects.
+Remain adaptable, encourage learning, 
+monitor weak signals, and build 
+resilience.
+The perspectives are complementary. Systems thinking helps managers see connections; contingency 
+thinking helps them choose an approach that fits the circumstances; Chaos Theory reminds them that 
+
+===PAGE 12===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  12
+circumstances may continue changing after a decision is made. Used together, they encourage informed 
+action without pretending that an organization can be understood or controlled through one fixed formula.
+Evolution-of-thought essay link:  The movement from Classical to Human Relations, Modern, and 
+Emerging perspectives is best understood as expansion rather than total replacement: efficiency and 
+rules still matter, but they must be combined with attention to people, interdependence, situational fit, 
+and uncertainty.
+
+===PAGE 13===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  13
+SYLLABUS DIVISION
+3. Metaphors of Organization
+Different lenses reveal different features of the same organization
+A metaphor is a lens for interpreting an organization, not a literal claim that it is a machine, organism, brain, 
+or political system. Each metaphor draws attention to some features and may hide others. Strong analysis 
+compares lenses rather than assuming that one image fully explains the organization.
+3.1 Organization as a machine
+The machine metaphor emphasizes clearly defined jobs, standard procedures, hierarchy, rules, efficiency, 
+and predictability. It connects closely to Scientific Management, Fayol’s administrative principles, and the 
+formal structure of bureaucracy. It is useful when work is repeatable and consistency, safety, or reliable 
+processing matters. Its danger is rigidity: if workers are treated only as parts of a machine, the organization 
+may neglect initiative, social relationships, complex judgment, and changing conditions.
+3.2 Organization as an organism
+The organism metaphor emphasizes survival, adaptation, needs, and the relationship between an 
+organization and its environment. It aligns with the Systems Approach because an open organization 
+receives resources, responds to environmental conditions, and must maintain relationships with the people 
+and institutions around it. It also connects to Contingency thinking: the structure and practices that fit one 
+environment may not fit another. The metaphor reminds managers to ask whether the organization’s current 
+arrangements match its environment and the needs of those who participate in it.
+3.3 Organization as a brain
+The brain metaphor highlights information, knowledge, learning, intelligence, and decision-making. It 
+connects to Metcalfe’s systematic records, Taylor’s measurement, modern evidence-based management, 
+and the feedback component of systems thinking. An organization learns when it uses performance 
+information to identify errors, tests alternative methods, and updates its practices. Chaos Theory adds that 
+this learning must continue because the setting may shift and outcomes may not be fully predictable.
+3.4 Organization as a political system
+The political-system metaphor focuses on power, competing interests, conflict, negotiation, and influence. It 
+clarifies why formal goals do not always translate directly into action: managers, employees, departments, 
+professional groups, unions, and outside stakeholders may have different interests. Taylor’s account of 
+conflict between employers and workers, Weber’s analysis of authority, and Selznick’s concern that 
+subunits may pursue their own goals all illustrate political dynamics. The metaphor is useful when analyzing 
+who has influence, whose interests shape decisions, and how agreement is achieved or blocked.
+3.5 Combining metaphors in analysis
+Consider a public agency introducing a new permit process. The machine lens asks whether responsibilities 
+and steps are clear and consistent. The organism lens asks whether the process fits citizens’ needs and the 
+agency’s environment. The brain lens asks whether the agency uses processing-time data, complaints, and 
+staff knowledge to improve the procedure. The political lens asks whose interests shape the new rules, who 
+may resist them, and how disagreements are managed. Each lens reveals a different part of the same 
+situation.
+This is also a way to weave theories in an essay. Instead of listing four metaphors, explain why each one 
+adds something the others miss. A machine metaphor can explain reliability but not all informal behavior; an 
+organism metaphor shows adaptation but may understate internal conflict; a brain metaphor highlights 
+learning but not necessarily power; a political metaphor explains conflict but may understate shared 
+purpose. The most useful interpretation depends on the question being asked.
+
+===PAGE 14===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  14
+SYLLABUS DIVISION
+4. Functions of Administration
+Planning • Implementation • Monitoring • Evaluation
+The syllabus identifies four connected functions of administration. They are best understood as an ongoing 
+cycle rather than isolated tasks. Planning establishes the intended result; implementation puts the plan into 
+practice; monitoring tracks whether activities are proceeding as intended; evaluation assesses the 
+outcomes and informs the next round of planning.
+4.1 Planning
+Planning defines the problem, intended objectives, actions, resources, responsibilities, and timeline. Goals 
+need to be clear and measurable, but they must also be realistic, sufficiently challenging, and consistent 
+with the organization’s wider purpose. Fayol’s administrative approach highlights planning as a managerial 
+responsibility; Goal-Setting Theory explains why specific goals and feedback can direct effort; and the 
+Contingency Perspective requires that a plan fit the task, the people, and the environment. A plan should 
+identify assumptions and risks rather than treating the future as certain.
+4.2 Implementation
+Implementation turns decisions into action. It requires assigning responsibilities, coordinating departments, 
+providing staff and other resources, communicating expectations, and developing the skills needed to 
+perform the work. Taylor emphasizes scientific methods, training, and standards; Fayol stresses 
+organization and coordination; Human Relations theories show why cooperation, employee needs, and 
+participation also matter. The Contingency Perspective adds that the same implementation method may not 
+fit every situation.
+4.3 Monitoring
+Monitoring tracks activities and outputs while implementation is underway. Managers compare actual 
+progress with the plan, standards, and deadlines, and look for early signs of delay, poor quality, unfair 
+treatment, or unintended consequences. Taylor’s measurement and Metcalfe’s records show the value of 
+reliable information; the Systems Approach explains why feedback must travel between parts of the 
+organization. Monitoring is not simply policing workers: it should help the organization find out what is 
+happening and what needs adjustment.
+4.4 Evaluation
+Evaluation asks whether the action achieved its objectives and whether the results were effective, efficient, 
+fair, and sustainable. It should consider not only immediate outputs but also the quality and wider 
+consequences of the work. Equity Theory reminds evaluators to consider perceived fairness; Human 
+Relations theories direct attention to employee and user experiences; Systems thinking asks how outcomes 
+relate to inputs and processes; and Chaos Theory cautions that some effects may emerge later or through 
+unexpected interactions. Evaluation should produce learning, not just a judgment of success or failure.
+4.5 The functions as a feedback cycle
+23. Plan: Define a public-service problem, the desired result, the resources required, and clear 
+indicators of progress.
+24. Implement: Assign responsibilities, communicate the process, coordinate units, and provide staff 
+with the training and resources needed.
+25. Monitor: Compare actual progress with the plan and collect information from records, staff, and 
+service users.
+26. Evaluate: Assess results and unintended effects; determine what should be continued, changed, or 
+stopped.
+
+===PAGE 15===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  15
+27. Revise: Use the findings to improve the next plan. This closes the loop and turns administration into 
+a process of continuous learning.
+For example, if a government office aims to reduce permit-processing delays, planning establishes a 
+measurable service standard; implementation assigns roles and simplifies workflow; monitoring tracks 
+waiting times and complaints; and evaluation checks whether processing became faster without reducing 
+accuracy or fair treatment. If the results are poor, the organization should investigate the connected process 
+and revise its approach instead of simply blaming one employee or repeating the same plan.
+Section-wide link:  Planning gives direction, implementation coordinates people and resources, 
+monitoring creates feedback, and evaluation supports learning. These functions draw on all four syllabus 
+divisions: historical administrative problems, management theories, organizational metaphors, and the 
+need to fit action to context.
+
+===PAGE 16===
+PA 111  |  MANAGEMENT OF ORGANIZATIONS
+Syllabus-aligned consolidated notes  •  16
+ESSAY INTEGRATION
+Connecting the course in an essay
+The strongest answers do more than define a school of thought. They explain how an idea responds to an 
+earlier limitation, what it reveals about organizations, and why it still needs to be applied with judgment.
+Four useful threads
+28. Efficiency and the human side of work: Smith and Babbage explain specialization; Taylor adds 
+measurement, standards, training, and incentives; Gantt stresses teaching and cooperation; 
+Hawthorne, Maslow, Herzberg, McGregor, and Argyris show why relationships, needs, assumptions, 
+and development affect performance.
+29. Authority and organizational responsibility: Fayol clarifies managerial coordination; Weber explains 
+impersonal authority and bureaucracy; the critics show that rules can become dysfunctional, expertise 
+can conflict with hierarchy, and responsibility requires values and judgment as well as formal 
+procedure.
+30. Motivation and fairness: Goal-Setting Theory links effort to clear goals and feedback; Equity Theory 
+explains why perceived fairness shapes motivation; ERG, Maslow, and Herzberg explain why different 
+needs and work conditions matter. These can be combined to explain why an incentive succeeds in 
+one case but fails in another.
+31. Whole system and changing context: The Systems Approach maps interdependence and feedback; 
+the Contingency Perspective asks what fits the situation; Chaos Theory recognizes that complex 
+systems can change unexpectedly. Together, they argue for evidence, context, flexibility, and learning 
+rather than one universal formula.
+A compact structure for a pure essay
+Start with a defensible argument that answers the question directly. Explain the central theory in your own 
+words, not just as a list of terms. Connect it to a related theory or an earlier school by naming what the 
+second theory adds or challenges. Apply the connection to a concrete organization or administrative 
+problem. Finally, qualify the argument by identifying a limitation or condition under which the approach may 
+not work. This gives the essay a line of reasoning rather than a collection of definitions.
+Final synthesis
+The course’s overall movement is from the organization of work and authority toward a more complete 
+understanding of people, systems, and uncertainty. Classical management remains useful for structure, 
+efficiency, standards, and accountability. Human Relations shows that employee behavior depends on 
+social relationships, needs, perceived fairness, and opportunities to develop. Modern management shows 
+that decisions benefit from evidence and from understanding how organizational parts interact. Emerging 
+perspectives remind managers to adapt methods to circumstances and to remain responsive when 
+conditions are unpredictable. Effective administration combines these insights through planning, 
+implementation, monitoring, and evaluation.
