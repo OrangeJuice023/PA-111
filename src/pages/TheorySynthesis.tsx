@@ -37,136 +37,87 @@ export default function TheorySynthesis() {
           <h2>Suggested Model Answer</h2>
 
           <p>
-            The Classical, Human Relations, and Modern schools of management can look like competing theories, but I
-            think they are better seen as steps in one long conversation. All three try to answer the same question:
-            how do you get many people to work together toward a common goal? Each school answered part of it and
-            left a gap for the next one to fill. In this essay, I argue that a manager today should not depend on just
-            one theory, but should first understand the problem and then combine the ideas that fit it.
+            The Classical, Human Relations, and Modern schools can look like competing theories, but I think they are
+            better seen as steps in one conversation about how to get many people to work toward a common goal. Each
+            school answered part of that question and left a gap for the next one to fill. In this essay, I argue that
+            a manager today should not depend on just one theory, but should understand the problem first and then
+            combine the ideas that fit it.
           </p>
 
           <h3>1. The Classical School: structure, standards, and authority</h3>
           <p>
-            The Classical School focused on how to organize work and authority so that an organization runs
-            efficiently. It started on the shop floor. Adam Smith and Charles Babbage showed that dividing work lowers
-            costs, and Babbage added that even mental work should be split by skill level so that expensive workers
-            are not wasted on simple tasks. Henry Metcalfe, at the Frankford Arsenal, replaced foremen&rsquo;s memories
-            with shop-order cards, so the organization kept records instead of relying on people. Metcalfe recorded
-            work; Frederick Taylor took the next step and measured it scientifically to set standards. He also fought &ldquo;soldiering,&rdquo; and called for a &ldquo;mental
-            revolution&rdquo; where managers and workers cooperate instead of fighting over the surplus. Henry Gantt kept
-            Taylor&rsquo;s standards but made them more humane by guaranteeing the day wage and rewarding foremen for
-            teaching, so where Taylor&rsquo;s approach was to drive, Gantt&rsquo;s was to teach and lead. Frank and
-            Lillian Gilbreth studied motions instead of time and showed that reducing fatigue helps both workers and
-            output, while Church and Alford connected Taylor&rsquo;s shop-floor methods to cost accounting. In a way,
-            Gantt and the Gilbreths were already correcting Taylor from the inside, since they paid attention to the
-            worker&rsquo;s welfare that the next school would put at the center.
+            The Classical School wanted organizations to run efficiently and predictably. On the shop floor, Smith and
+            Babbage showed that dividing work lowers costs. Metcalfe then replaced foremen&rsquo;s memories with written
+            records, and Taylor took the next step by measuring work to set standards, calling for a &ldquo;mental
+            revolution&rdquo; of cooperation between managers and workers. Gantt and the Gilbreths were already
+            softening Taylor from the inside: Gantt guaranteed the day wage so supervisors would teach and lead
+            instead of drive, and the Gilbreths showed that reducing fatigue helps output. Church and Alford linked
+            these methods to cost accounting.
           </p>
           <p>
-            Other Classical thinkers looked at the organization from the top. While Taylor looked up from the worker,
-            Henri Fayol looked down from the managing director. He described management as
-            planning, organizing, commanding, coordinating, and controlling, and gave principles like unity of command
-            and the scalar chain. His unity of command directly rejected Taylor&rsquo;s functional foremen, where one
-            worker could have several bosses. Mooney and Reiley called coordination the first principle of
-            organization and separated line authority from staff advice. Luther Gulick then summed up executive work as
-            POSDCORB, which expands Fayol&rsquo;s functions, and Lyndall Urwick combined the ideas of Fayol, Taylor, and
-            Mooney and Reiley into principles such as span of control and the principle of the objective. Finally,
-            Max Weber, as explained by Martin Albrow, described bureaucracy as authority based on written rules,
-            hierarchy, and qualified officials instead of personal favor.
+            Other thinkers looked down from the top. Fayol defined management as planning, organizing, commanding,
+            coordinating, and controlling, and his unity of command rejected Taylor&rsquo;s idea of several functional
+            bosses. Mooney and Reiley made coordination the first principle, Gulick expanded Fayol&rsquo;s functions
+            into POSDCORB, and Urwick combined all of them into principles like span of control. Weber, as explained by
+            Albrow, added bureaucracy: authority based on written rules and qualified officials instead of personal
+            favor.
           </p>
           <p>
-            The main strength of this school is that it gave organizations clear roles, order, efficiency, and
-            accountability. Its biggest weakness is that it treated workers almost like parts of a machine.
-            Taylor&rsquo;s system was criticized as dehumanizing and faced union resistance. Merton pointed out that
-            rules can become ends in themselves, Selznick showed that subunits can pursue their own goals, and Herbert
-            Simon argued that the &ldquo;principles&rdquo; often contradict each other like proverbs. Talcott Parsons
-            noted the conflict between authority based on position and authority based on expertise, and Peter Blau
-            found that informal cooperation among employment-agency staff served clients better than strict
-            competitive quotas. In public administration, Onofre Corpuz and Carl Friedrich stressed that bureaucratic
-            neutrality should never replace ethical responsibility and responsiveness to the public. Basically, the
-            Classical School assumed that a well-designed structure would automatically lead to good performance,
-            which is not always true.
+            This school gave us clear roles, order, and accountability, but it treated workers like parts of a
+            machine. Its critics showed the cost: Merton&rsquo;s rules that become ends in themselves, Selznick&rsquo;s
+            subunits chasing their own goals, Simon&rsquo;s principles that contradict each other like proverbs,
+            Parsons&rsquo;s clash between rank and expertise, Blau&rsquo;s finding that informal cooperation beat strict
+            quotas, and Corpuz and Friedrich&rsquo;s reminder that neutrality must not replace ethics.
           </p>
 
           <h3>2. The Human Relations School: the social side of work</h3>
           <p>
-            The Human Relations School grew out of this weakness. Interestingly, the Hawthorne studies began as a
-            Classical experiment, testing whether better lighting raises output. Elton Mayo and Fritz Roethlisberger
-            instead found that productivity could not be explained by lighting or physical conditions alone,
-            and in the Bank Wiring room workers kept to their own informal output norm. From this, they concluded that
-            an organization is also a social system, that money is not the only motivator, and that morale affects
-            output. This directly challenged Taylor&rsquo;s picture of the worker as an isolated person moved only by
-            pay. The Bank Wiring room is also the same &ldquo;soldiering&rdquo; Taylor complained about, but now
-            explained as a social behavior instead of laziness.
+            Human Relations grew out of this gap. The Hawthorne studies of Mayo and Roethlisberger actually began as a
+            Classical experiment on lighting, but they found that output depended on social factors instead. Even
+            Taylor&rsquo;s &ldquo;soldiering&rdquo; reappeared in the Bank Wiring room, now explained as a group norm
+            rather than laziness. The conclusion was that an organization is a social system and money is not the only
+            motivator.
           </p>
           <p>
-            The motivation theorists then explained what people actually need. Abraham Maslow arranged needs in a
-            hierarchy from physiological to self-actualization, and Clayton Alderfer later revised it into Existence,
-            Relatedness, and Growth, adding that people who are blocked from growing fall back on lower needs. David
-            McClelland showed that needs for achievement, affiliation, and power are learned. Frederick Herzberg
-            separated hygiene factors such as salary, which only prevent dissatisfaction, from motivators such as
-            achievement and responsibility, which means Taylor&rsquo;s reliance on pay could stop complaints but not
-            create real motivation. Douglas McGregor showed that a manager&rsquo;s Theory X or Theory Y assumptions can
-            become self-fulfilling, and Theory X sounds a lot like how Classical managers saw workers. Chris Argyris
-            went straight at the Classical principles, arguing that specialization, hierarchy, and tight control
-            clash with the mature adult personality. Other theorists focused on how motivation works. J. Stacy Adams showed that
-            people compare their rewards with others&rsquo;, so fairness matters. Victor Vroom explained motivation
-            as Expectancy &times; Instrumentality &times; Valence, so if any one of them is zero, motivation drops to
-            zero. Edwin Locke and Gary Latham found that specific, challenging goals with feedback improve
-            performance, and B.F. Skinner showed that behavior that is rewarded tends to be repeated.
+            The motivation theorists built on this. Maslow&rsquo;s hierarchy of needs was later revised by
+            Alderfer&rsquo;s ERG theory, and McClelland showed that needs like achievement are learned. Herzberg argued
+            that pay only prevents dissatisfaction, which challenges Taylor&rsquo;s reliance on wages. McGregor&rsquo;s
+            Theory X describes how Classical managers saw workers, and Argyris argued that specialization and tight
+            control clash with the mature adult. Adams, Vroom, Locke and Latham, and Skinner explained how motivation
+            works through fairness, expectations, goals, and reinforcement.
           </p>
           <p>
-            However, this school added to the Classical School rather than replacing it, because structure and pay
-            still matter. Its weakness is assuming that satisfied workers will always be productive workers; as
-            discussed in the lecture, Herzberg&rsquo;s theory takes this link for granted. Maslow&rsquo;s strict
-            ladder also does not always match how people behave in real organizations.
+            Still, this school added to the Classical School rather than replacing it, since structure and pay still
+            matter, and a satisfied worker is not automatically a productive one.
           </p>
 
           <h3>3. Modern Management: the whole system and its results</h3>
           <p>
-            The Modern School looked at the organization from an even wider angle. The Classical School treated the
-            organization like a closed machine, and Human Relations mostly looked inside the work group. Daniel Katz
-            and Robert Kahn instead described organizations as open systems that take in inputs from their
-            environment, transform them, produce outputs, and adjust through feedback, and they noted that the same
-            goal can be reached by different paths, so there is no single &ldquo;one best way.&rdquo; This
-            shows something the earlier schools missed: improving one department can sometimes hurt the whole
-            organization.
-            Peter Blau and W. Richard Scott classified organizations by who benefits from them, such as members,
-            owners, clients, or the public. Edgar Schein explained that culture runs from visible artifacts down to
-            unspoken assumptions, and Henry Mintzberg showed that organizations take different structures, such as a
-            machine bureaucracy or an adhocracy, depending on how they coordinate work. His machine bureaucracy runs
-            on the standardized work Taylor and Weber described, but now it is just one option among several instead
-            of the ideal. John Meyer and Brian Rowan showed that agencies sometimes adopt formal structures mainly for
-            legitimacy and then &ldquo;decouple&rdquo; them from actual work, which is a bit like the gap between the
-            formal and informal organization that Hawthorne first noticed. Philip Selznick, who had already
-            criticized bureaucracy, showed how organizations absorb outside groups through co-optation to survive.
+            The Modern School widened the view again. The Classical School saw a closed machine and Human Relations
+            looked mostly inside the work group, but Katz and Kahn described the organization as an open system with
+            inputs, outputs, and feedback, where there is no single &ldquo;one best way.&rdquo; This shows that fixing
+            one department can hurt the whole. The other Modern thinkers each added a lens: Blau and Scott asked who
+            benefits from an organization, Schein looked at culture, Mintzberg showed that Taylor and Weber&rsquo;s
+            machine bureaucracy is only one possible structure, Meyer and Rowan showed how formal rules get
+            &ldquo;decoupled&rdquo; from real work, and Selznick explained co-optation.
           </p>
           <p>
-            Peter Drucker&rsquo;s Management by Objectives (MBO), the last topic in our exam coverage, brings the focus
-            back to results. Managers and employees agree on goals together, and when people can see their own
-            performance, they can manage themselves. For me, MBO is a good bridge between the Classical focus on
-            standards and the Human Relations idea that committed people can direct their own work. It echoes
-            Urwick&rsquo;s principle of the objective, turns Locke&rsquo;s goal-setting findings into a management
-            system, and assumes the Theory Y worker McGregor described. Where Taylor and Fayol kept planning and
-            control with management, MBO moves much of the checking to the person doing the work. Still, the Modern
-            School has limits. Seeing the whole system does not automatically tell a manager what to do, and MBO can
-            turn into simply chasing targets if the goals are forced on people or poorly chosen.
+            Drucker&rsquo;s Management by Objectives, the last topic in our exam coverage, ties the schools together.
+            Managers and employees agree on goals, and people who see their own results can control their own work.
+            MBO keeps the Classical focus on standards, turns Locke&rsquo;s goal-setting into a system, and assumes
+            McGregor&rsquo;s Theory Y worker. Its risk is that it becomes plain target-chasing when goals are forced on
+            people.
           </p>
 
           <h3>4. One theory or several?</h3>
           <p>
-            Because of all this, I believe it is better for a manager to combine theories than to rely on only one.
-            Real organizations usually have several problems at the same time. For example, imagine a municipal
-            business-permit office where applications take weeks and employees have low morale. A manager could start
-            with Classical tools by mapping the process, assigning clear responsibilities, keeping records like
-            Metcalfe, and setting service standards. Then, using Human Relations ideas, the manager could talk to the
-            frontline staff about what is slowing them down, make sure workloads and rewards are fair, and make sure
-            good performance is actually recognized. Systems thinking would remind the manager that the delay might
-            come from another office, like the fire-safety inspection. Finally, MBO could turn all of this into shared
-            goals, like processing time, with each unit tracking its own progress.
-          </p>
-          <p>
-            This combination works because each approach covers the blind spots of the others. Of course, the right
-            mix depends on the situation. A routine and stable task might mostly need Classical standards, while a
-            team of professionals might work better with clear objectives and more freedom.
+            For these reasons, I believe a manager should combine theories. Take a municipal business-permit office
+            where applications take weeks and morale is low. Classical tools come first: map the process, assign clear
+            responsibilities, and set service standards. Human Relations comes next: ask the frontline staff what slows
+            them down and make sure workloads and rewards are fair. Systems thinking reminds the manager that the delay
+            may come from another office, like the fire-safety inspection. Finally, MBO turns this into shared goals,
+            like processing time, that each unit can track. Each approach covers the others&rsquo; blind spots, and the
+            mix should depend on the situation.
           </p>
           <aside className="synthesis-scope-note">
             <span className="scope-badge">Possible not included in the exam</span>
@@ -179,11 +130,10 @@ export default function TheorySynthesis() {
 
           <h3>Conclusion</h3>
           <p>
-            Looking at all three schools, management thought did not throw away old ideas but kept building on them.
-            The Classical School gave us structure and accountability, the Human Relations School reminded us that
-            workers are people, and the Modern School taught us to see the whole picture and focus on results. In my
-            view, the best manager is not someone loyal to one school, but someone who knows how to combine these
-            ideas depending on the problem they are facing.
+            Management thought did not throw away old ideas but kept building on them. The Classical School gave us
+            structure, Human Relations reminded us that workers are people, and the Modern School taught us to see the
+            whole picture and focus on results. In my view, the best manager is the one who combines these ideas based
+            on the problem they are facing, not out of loyalty to one school.
           </p>
         </article>
 
