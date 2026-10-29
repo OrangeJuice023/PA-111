@@ -1,20 +1,51 @@
-import { Link, NavLink, Outlet } from 'react-router-dom'
+import { useEffect, useState } from 'react'
+import { Link, NavLink, Outlet, useLocation } from 'react-router-dom'
 import './Layout.css'
 
+const NAV_ITEMS = [
+  { to: '/', label: 'Home', end: true },
+  { to: '/syllabus', label: 'Syllabus' },
+  { to: '/reviewer', label: 'Canonical Reviewer' },
+  { to: '/essay-questions', label: 'Possible Essay Exam Questions' },
+  { to: '/theory-synthesis', label: 'Theory Synthesis' },
+  { to: '/connections', label: 'Concept Connections' },
+  { to: '/essay', label: 'Essay Practice' },
+]
+
 function Layout() {
+  const [menuOpen, setMenuOpen] = useState(false)
+  const location = useLocation()
+
+  // Close the collapsed menu after navigating
+  useEffect(() => { setMenuOpen(false) }, [location.pathname])
+
+  useEffect(() => {
+    if (!menuOpen) return
+    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') setMenuOpen(false) }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [menuOpen])
+
   return (
     <div className="layout">
       <header className="header">
-        <nav className="nav container" aria-label="Main navigation">
+        <nav className="nav" aria-label="Main navigation">
           <Link to="/" className="logo">PA 111 Exam Reviewer</Link>
-          <ul className="nav-list">
-            <li><NavLink to="/" end className={({isActive})=>isActive?'nav-link active':'nav-link'}>Home</NavLink></li>
-            <li><NavLink to="/syllabus" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Syllabus</NavLink></li>
-            <li><NavLink to="/reviewer" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Canonical Reviewer</NavLink></li>
-            <li><NavLink to="/essay-questions" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Possible Essay Exam Questions</NavLink></li>
-            <li><NavLink to="/theory-synthesis" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Theory Synthesis</NavLink></li>
-            <li><NavLink to="/connections" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Concept Connections</NavLink></li>
-            <li><NavLink to="/essay" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Essay Practice</NavLink></li>
+          <button
+            type="button"
+            className="nav-toggle"
+            aria-expanded={menuOpen}
+            aria-controls="main-nav-list"
+            onClick={() => setMenuOpen(open => !open)}
+          >
+            {menuOpen ? 'Close' : 'Menu'}
+          </button>
+          <ul id="main-nav-list" className={menuOpen ? 'nav-list open' : 'nav-list'}>
+            {NAV_ITEMS.map(item => (
+              <li key={item.to}>
+                <NavLink to={item.to} end={item.end} className={({isActive})=>isActive?'nav-link active':'nav-link'}>{item.label}</NavLink>
+              </li>
+            ))}
           </ul>
         </nav>
       </header>

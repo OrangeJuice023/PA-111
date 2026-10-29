@@ -83,6 +83,14 @@
   margin-bottom: 1rem;
 }
 
+/* Justified text; hyphenation keeps the word spacing even on narrow screens */
+.synthesis-question p,
+.synthesis-answer p {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
 .synthesis-scope-note {
   border: 1px solid var(--border-color, #D9D2C5);
   border-radius: 6px;
