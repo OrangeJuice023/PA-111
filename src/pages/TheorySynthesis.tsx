@@ -95,110 +95,114 @@ export default function TheorySynthesis() {
           <p>
             The Classical School wanted organizations to run efficiently and predictably. It started on the shop
             floor. Smith and Babbage showed that dividing work lowers costs, and Babbage added that even mental work
-            should be split by skill so that expensive workers are not wasted on simple tasks. Metcalfe, at the
-            Frankford Arsenal, replaced foremen&rsquo;s memories with shop-order cards so the organization kept its own
-            records. Taylor took the next step: instead of only recording work, he measured it to set standards. He
-            attacked &ldquo;soldiering,&rdquo; or workers deliberately holding back output, and called for a
-            &ldquo;mental revolution&rdquo; where managers and workers cooperate to enlarge the surplus instead of
-            fighting over it.
+            should be split by skill. This cut labor and training costs, but it also deskilled workers and broke work
+            into fragments that needed heavy supervision. Metcalfe, at the Frankford Arsenal, replaced foremen&rsquo;s
+            memories with shop-order cards, which gave the organization a memory and accurate costs, although it only
+            recorded work without improving it. Taylor took the next step and measured work to set standards. He
+            attacked &ldquo;soldiering&rdquo; and called for a &ldquo;mental revolution&rdquo; of cooperation. His
+            methods brought huge gains in productivity, but he treated workers like machines moved only by pay, which
+            led to deskilling and strong union resistance.
           </p>
           <p>
             Gantt and the Gilbreths were already softening Taylor from the inside. Gantt guaranteed the day wage and
-            paid foremen a bonus for teaching, so where Taylor&rsquo;s approach was to drive, Gantt&rsquo;s was to teach
-            and lead. The Gilbreths studied motions instead of time and showed that reducing fatigue helps both the
-            worker and output. Church and Alford then linked these shop-floor methods to cost accounting so managers
-            could see the real cost of each decision.
+            paid foremen to teach, so where Taylor&rsquo;s approach was to drive, Gantt&rsquo;s was to teach and lead;
+            still, his focus stayed mostly on the production floor. The Gilbreths studied motions and showed that
+            reducing fatigue helps both the worker and output, though their method risked micromanaging every
+            movement. Church and Alford linked these methods to cost accounting, which made real costs visible but
+            added a lot of paperwork.
           </p>
           <p>
             Other thinkers looked down from the top. While Taylor looked up from the worker, Fayol looked down from the
-            managing director and defined management as planning, organizing, commanding, coordinating, and
-            controlling. His unity of command, one boss for each worker, directly rejected Taylor&rsquo;s functional
-            foremen. Mooney and Reiley made coordination the first principle of organization and separated line
-            authority from staff advice. Gulick expanded Fayol&rsquo;s functions into POSDCORB, and Urwick combined
-            Fayol, Taylor, and Mooney and Reiley into principles like span of control and the principle of the
-            objective. Weber, as explained by Albrow, added bureaucracy: authority based on written rules, hierarchy,
-            and qualified officials instead of personal favor.
+            managing director and gave us the first general theory of management: planning, organizing, commanding,
+            coordinating, and controlling. His unity of command directly rejected Taylor&rsquo;s functional foremen.
+            Mooney and Reiley made coordination the first principle and separated line from staff, and Gulick and
+            Urwick built on all of them with POSDCORB and principles like span of control. These gave managers a clear
+            vocabulary, but they were rigid, ignored politics, and, as Simon later argued, their principles often
+            contradict each other like proverbs. Weber, as explained by Albrow, added bureaucracy, which brought
+            predictability, merit, and equal treatment under the rules.
           </p>
           <p>
-            This school gave us clear roles, order, efficiency, and accountability, but it treated workers like parts
-            of a machine, and Taylor&rsquo;s system faced strong union resistance. Its critics showed the cost. Merton
-            warned that rules can become ends in themselves, Selznick showed subunits chasing their own goals, and
-            Simon argued that the principles contradict each other like proverbs. Parsons pointed out the clash
-            between authority from rank and authority from expertise, Blau found that informal cooperation served
-            clients better than strict quotas, and Corpuz and Friedrich reminded us that neutrality must not replace
-            ethics. In short, the Classical School assumed that a good design on paper would automatically perform
-            well.
+            Bureaucracy also had a cost, and its critics showed it. Merton warned that rules can become ends in
+            themselves, Selznick showed subunits chasing their own goals, Parsons pointed out the clash between rank
+            and expertise, Blau found that informal cooperation served clients better than strict quotas, and Corpuz
+            and Friedrich reminded us that neutrality must not replace ethics. Overall, the Classical School gave us
+            order and accountability but assumed that a good design on paper would automatically perform well.
           </p>
 
           <h3>2. The Human Relations School: the social side of work</h3>
           <p>
-            Human Relations grew out of this gap. The Hawthorne studies of Mayo and Roethlisberger actually began as a
-            Classical experiment testing whether better lighting raises output, but output kept rising even when the
-            lights were dimmed, so the cause had to be social. In the Bank Wiring room, workers kept to an informal
-            output norm, which is Taylor&rsquo;s &ldquo;soldiering&rdquo; again, but now explained as group behavior
-            instead of laziness. The conclusions were that an organization is a social system, money is not the only
-            motivator, communication should go both ways, and morale is linked to output.
+            Human Relations grew out of this gap. The Hawthorne studies of Mayo and Roethlisberger began as a Classical
+            experiment on lighting, but output kept rising even when the lights were dimmed, so the cause had to be
+            social. In the Bank Wiring room, workers kept an informal output norm, which is Taylor&rsquo;s
+            &ldquo;soldiering&rdquo; again, now explained as group behavior. Hawthorne&rsquo;s strength is that it
+            revealed the informal organization and the value of morale and two-way communication. Its weakness is that
+            it can ignore economic realities or turn into paternalistic manipulation.
           </p>
           <p>
-            The motivation theorists built on this. Maslow arranged needs in a hierarchy from physiological to
-            self-actualization, and Alderfer later revised it into Existence, Relatedness, and Growth, adding that
-            people blocked from growing fall back on lower needs. McClelland showed that needs for achievement,
-            affiliation, and power are learned. Herzberg argued that hygiene factors like pay only prevent
-            dissatisfaction, while real motivation comes from achievement and responsibility, which challenges
-            Taylor&rsquo;s reliance on wages. McGregor&rsquo;s Theory X describes how Classical managers saw workers,
-            and he warned that it becomes self-fulfilling. Argyris went straight at the Classical principles, arguing
-            that specialization, hierarchy, and tight control clash with the mature adult personality.
+            The motivation theorists built on this. Maslow gave a simple map of needs from survival to
+            self-actualization, but real people do not always climb it step by step. Alderfer revised it into ERG and
+            added that blocked growth makes people fall back on lower needs, which explains many workplace complaints,
+            although managers may wrongly treat those complaints as purely about money. McClelland showed that needs
+            for achievement, affiliation, and power are learned, which helps match people to roles, but high achievers
+            tend to micromanage when promoted. Herzberg separated hygiene factors like pay from real motivators,
+            challenging Taylor&rsquo;s reliance on wages and leading to job enrichment, but he assumed that a
+            satisfied worker is automatically productive. McGregor showed that managers&rsquo; assumptions shape how
+            workers behave, and that Theory X, which sounds a lot like Classical management, becomes self-fulfilling.
+            Argyris went straight at Classical principles, explaining absenteeism and apathy as reactions to narrow,
+            controlled jobs.
           </p>
           <p>
-            Others explained how motivation works. Adams showed that people compare their rewards with others&rsquo;,
-            so fairness matters. Vroom described motivation as Expectancy &times; Instrumentality &times; Valence, so if
-            any one is zero, motivation is zero. Locke and Latham found that specific, challenging goals with feedback
-            raise performance, and Skinner showed that rewarded behavior tends to be repeated.
+            Others explained how motivation works. Adams showed that fairness matters as much as the reward itself,
+            so unexplained pay gaps quickly hurt morale. Vroom described motivation as Expectancy &times;
+            Instrumentality &times; Valence; his strength is showing that ability, kept promises, and valued rewards
+            all matter, and his warning is that favoritism can drop motivation to zero. Locke and Latham found that
+            specific, challenging goals with feedback raise performance, but narrow targets invite gaming. Skinner
+            showed that rewarded behavior is repeated, while too much punishment only breeds fear.
           </p>
           <p>
-            Still, this school added to the Classical School rather than replacing it, since structure and pay still
-            matter. Its weakness is assuming that a satisfied worker is automatically a productive one; as the lecture
-            pointed out, Herzberg takes this link for granted.
+            Overall, this school added the human side to the Classical School rather than replacing it, since structure
+            and pay still matter.
           </p>
 
           <h3>3. Modern Management: the whole system and its results</h3>
           <p>
             The Modern School widened the view again. The Classical School saw a closed machine, and Human Relations
             looked mostly inside the work group. Katz and Kahn instead described the organization as an open system
-            that takes inputs from its environment, transforms them, produces outputs, and adjusts through feedback.
-            They also noted that the same goal can be reached by different paths, so there is no single &ldquo;one best
-            way.&rdquo; This shows something the earlier schools missed: fixing one department can hurt the whole.
+            with inputs, outputs, and feedback, where the same goal can be reached by different paths, so there is no
+            single &ldquo;one best way.&rdquo; Its strength is showing that fixing one department can hurt the whole,
+            but seeing the whole system does not by itself tell a manager what to do.
           </p>
           <p>
-            The other Modern thinkers each added a lens. Blau and Scott classified organizations by who benefits from
-            them: members, owners, clients, or the public. Schein explained that culture runs from visible artifacts
-            down to unspoken assumptions. Mintzberg showed that organizations take different shapes depending on how
-            they coordinate work, so Taylor and Weber&rsquo;s machine bureaucracy is only one option among several.
-            Meyer and Rowan showed that agencies often adopt formal rules for legitimacy and then &ldquo;decouple&rdquo;
-            them from real work, a bit like the formal and informal gap Hawthorne first noticed. Selznick explained how
-            organizations co-opt outside groups to survive.
+            The other Modern thinkers each added a lens. Blau and Scott classified organizations by who benefits,
+            which clarifies each agency&rsquo;s purpose, though each type comes with its own dilemma. Schein explained
+            culture from visible artifacts down to hidden assumptions, which shows why reforms fail when deep
+            assumptions stay the same. Mintzberg showed that structure should fit the work, so Taylor and Weber&rsquo;s
+            machine bureaucracy is just one option, and one that breaks down in a crisis. Meyer and Rowan explained why
+            agencies adopt formal plans that are not really followed, a bit like the formal and informal gap Hawthorne
+            noticed, and they warned that reforms can become mere ceremony. Selznick showed that co-opting outside
+            groups helps an agency survive, but it can also bend the agency away from its public mission.
           </p>
           <p>
             Drucker&rsquo;s Management by Objectives, the last topic in our exam coverage, ties the schools together.
-            Managers and employees agree on the results expected, and people who see their own results can control
-            their own work. MBO keeps the Classical focus on standards and echoes Urwick&rsquo;s principle of the
-            objective, turns Locke&rsquo;s goal-setting into a system, and assumes McGregor&rsquo;s Theory Y worker.
-            Where Taylor and Fayol kept control with management, MBO moves much of it to the person doing the work.
-            Its risk is that it becomes plain target-chasing when goals are forced on people or badly chosen.
+            Managers and employees agree on results, and people who see their own results can control their own work.
+            MBO keeps the Classical focus on standards and echoes Urwick&rsquo;s principle of the objective, turns
+            Locke&rsquo;s goal-setting into a system, and assumes McGregor&rsquo;s Theory Y worker. Its strength is
+            focusing everyone on results, but in government many goals like fairness are hard to measure, and targets
+            can be gamed or simply imposed.
           </p>
 
           <h3>4. One theory or several?</h3>
           <p>
             For these reasons, I believe a manager should combine theories instead of relying on only one. Take a
             municipal business-permit office where applications take weeks and morale is low. Classical tools come
-            first: map the process, assign clear responsibilities, keep records of where each application is, and set
-            service standards. Human Relations comes next: ask the frontline staff what slows them down and make sure
-            workloads and rewards are fair. Systems thinking reminds the manager that the delay may come from another
-            office, like the fire-safety inspection. Finally, MBO turns this into shared goals, like processing time,
-            that each unit can track.
+            first: map the process, assign clear responsibilities, keep records, and set service standards. Human
+            Relations comes next: ask the frontline staff what slows them down and make sure workloads and rewards are
+            fair. Systems thinking reminds the manager that the delay may come from another office, like the
+            fire-safety inspection. Finally, MBO turns this into shared goals, like processing time, that each unit can
+            track.
           </p>
           <p>
-            This works because each approach covers the others&rsquo; blind spots. Too much control kills initiative,
+            This works because each approach covers the others&rsquo; weaknesses. Too much control kills initiative,
             caring only about satisfaction can let performance slide, and fixing one unit can just move the delay. The
             mix should also depend on the situation: a routine task may need mostly standards, while a team of
             professionals may do better with objectives and freedom.
