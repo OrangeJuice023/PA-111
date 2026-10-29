@@ -110,6 +110,63 @@
   margin: 0.5rem 0 0;
 }
 
+/* Per-theory strengths and limitations table */
+.synthesis-sw {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color, #D9D2C5);
+}
+
+.synthesis-sw h2 {
+  font-size: 1.4rem;
+  color: var(--text-primary, #30352E);
+  margin-bottom: 0.5rem;
+}
+
+.synthesis-sw-intro {
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--text-secondary, #6C7067);
+  margin-bottom: 1rem;
+}
+
+.synthesis-sw-group h3 {
+  font-size: 1.05rem;
+  color: var(--accent-primary, #596B50);
+  margin: 1.5rem 0 0.6rem;
+}
+
+.synthesis-sw-table-wrap {
+  overflow-x: auto;
+}
+
+.synthesis-sw-table {
+  width: 100%;
+  min-width: 560px;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  background-color: #FFFDF8;
+}
+
+.synthesis-sw-table th,
+.synthesis-sw-table td {
+  border: 1px solid var(--border-color, #D9D2C5);
+  padding: 0.55rem 0.7rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.synthesis-sw-table th {
+  background-color: var(--bg-secondary, #EDE7DA);
+  font-weight: 600;
+}
+
+.synthesis-sw-table td:first-child {
+  font-weight: 600;
+  width: 28%;
+}
+
 .synthesis-sources {
   margin-top: 2.5rem;
   padding-top: 1.5rem;
