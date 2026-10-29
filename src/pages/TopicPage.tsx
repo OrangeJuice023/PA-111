@@ -2,6 +2,9 @@ import { getTopicById } from '@/data/content'
 import { useParams, Link } from 'react-router-dom'
 import './TopicPage.css'
 
+// Divisions after the confirmed Drucker (MBO) exam cutoff.
+const POST_CUTOFF_DIVISIONS = ['D2D', 'D3', 'D4']
+
 export default function TopicPage() {
   const { topicId } = useParams<{ topicId: string }>()
   const topic = topicId ? getTopicById(topicId) : undefined
@@ -42,6 +45,9 @@ export default function TopicPage() {
           <div className="topic-header-meta">
             <span className="division-badge">{topic.division}</span>
             <span className="confidence-badge">Confidence: {topic.confidence}</span>
+            {POST_CUTOFF_DIVISIONS.includes(topic.divisionId) && (
+              <span className="scope-badge">Possible not included in the exam</span>
+            )}
             <Link to={`/reviewer#${reviewerAnchor}`} className="btn-reviewer-highlight">
               📖 Read Complete Chapter in Canonical Reviewer &rarr;
             </Link>

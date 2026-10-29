@@ -69,7 +69,7 @@
    - [3.6 Supplementary Lenses: Culture, Psychic Prisons, Flux, and Domination](#36-supplementary-lenses-culture-psychic-prisons-flux-and-domination)
    - [3.7 Multi-Lens Diagnostic Framework for Public Organizations](#37-multi-lens-diagnostic-framework-for-public-organizations)
    - [3.8 Division III Situational & Analytical Questions](#38-division-iii-situational--analytical-questions)
-6. [Division IV — Functions of Administration](#division-iv--functions-of-administration)
+6. [Division IV — Functions of Administration [Possible not included in the exam]](#division-iv--functions-of-administration)
    - [4.1 The Administrative Lifecycle (PIME Framework)](#41-the-administrative-lifecycle-pime-framework)
    - [4.2 Planning: Diagnostic Formulation and Strategic Intent](#42-planning-diagnostic-formulation-and-strategic-intent)
    - [4.3 Implementation: Operational Mobilization and Street-Level Friction](#43-implementation-operational-mobilization-and-street-level-friction)
@@ -101,7 +101,12 @@ Senior academic guidance and institutional history indicate that the examination
 ### Ground Rules for Evidence & Scholarly Integrity
 - **Primary Source Scope (Reading Set 1):** Defines the examinable canon of authors, including Babbage, Metcalfe, Taylor, Gantt, Church & Alford, Fayol, Gulick, Urwick, Mooney & Reiley, Albrow, Mayo, Maslow, Herzberg, McGregor, Argyris, Adams, McClelland, Locke & Latham, Alderfer, Skinner, Vroom, Blau & Scott, Katz & Kahn, Schein, Mintzberg, Meyer & Rowan, Selznick, and Drucker.
 - **Foundation Authority (Consolidated Syllabus-Aligned Notes):** Provides the foundational structural logic across the four required syllabus divisions.
-- **Supplementary Context (Senior Lecture Notes & Transcripts):** Preserves specific classroom emphases, including the distinction between "to drive" (Taylor) and "to teach and to lead" (Gantt), the Frankford Arsenal card system (Metcalfe), Weber's 10 characteristics and 5 beliefs, and the 4 traditional limits of bureaucracy.
+- **Supplementary Context (Senior Lecture Notes & Transcripts):** Preserves specific classroom emphases, including the distinction between "to drive" (Taylor) and "to teach and to lead" (Gantt), the Frankford Arsenal card system (Metcalfe), Weber's 10 characteristics and 5 beliefs, and the 5 limits of bureaucracy (collegiality, separation of powers, amateur administration, direct democracy, representation).
+
+### Confirmed Exam Scope
+- **The exam covers everything up to and including Peter F. Drucker's Management by Objectives (C.7)**, the last Modern Management reading in Reading Set 1: Division I, II-A (Classical), II-B (Human Relations), and II-C (Modern Management).
+- **Later sections are kept for future exams** and marked *Possible not included in the exam*: II-D (Contingency and Chaos), Division III (Metaphors of Organization), and Division IV (Functions of Administration). Division V is general essay-writing guidance.
+- **Evidence limitation:** no lecture slide or note on Drucker or MBO was found in the local materials. Drucker appears only as the final Modern Management entry in Reading Set 1. See C.7 for details.
 
 ---
 
@@ -259,7 +264,7 @@ The evolution of management thought is not a chronicle of complete obsolescence 
   3. *Heartily Cooperate with the Men:* Management must actively cooperate with workers to ensure all work is executed in accordance with the established scientific laws, providing appropriate incentives, tools, and conditions.
   4. *Divide Responsibility Almost Equally Between Management and Workers:* Relieve workers of the burden of planning, scheduling, tool design, and method formulation. Management assumes the intellectual burden of scientific planning, preparation, and supervision, while workers focus entirely on executing the scientifically planned task.
 - **The Bethlehem Steel Experiments:**
-  - *The Shovel Experiment:* Taylor observed that 600 shovelers at Bethlehem Steel used their own shovels to handle everything from heavy iron ore to light rice coal. Shovel loads fluctuated from 3.5 pounds to 38 pounds. Taylor conducted systematic experiments to discover the optimal load at which a first-class shoveler could move the maximum tonnage over an entire working day without exhaustion. That optimal load was **21.5 pounds**. Taylor then designed specialized shovels for every material, built a central planning office, issued daily instruction cards, and assigned tasks with specific routing. **Result:** The workforce was reduced from 600 to 140 men; average daily tonnage handled rose from 16 to 59 tons per man; average worker earnings jumped by 60%; and handling costs fell from **7–8 cents per ton to 3–4 cents per ton** (saving the firm over $75,000 annually).
+  - *The Shovel Experiment:* Taylor observed that the yard laborers at Bethlehem Steel owned their own shovels and used the same tool for everything from light rice coal to heavy iron ore, so shovel loads varied enormously. Taylor conducted systematic experiments to discover the optimal load at which a first-class shoveler could move the maximum tonnage over an entire working day without exhaustion. That optimal load was about **21 pounds** (the figure given in the lecture and the consolidated notes). Taylor then designed specialized shovels for every material, built a central planning office, issued daily instruction cards, and assigned tasks with specific routing. **Result:** The lecture records that handling costs fell from **7–8 cents per ton to 3–4 cents per ton**, even after counting the new clerical work, tool room, teaching, telephone system, implements, and higher wages. Taylor's own account adds that the yard force shrank to about 140 men, average tonnage per man rose from about 16 to 59 tons a day, and average earnings rose from about $1.15 to $1.88.
   - *Pig-Iron Handling (Schmidt):* By timing the cycle of loading, carrying, walking on an inclined plank, and resting (enforcing precise rest pauses so Schmidt was resting 57% of the day and under load 43% of the time), Taylor increased daily pig-iron loading from 12.5 long tons to **47.5 long tons per man**, while raising Schmidt's wage from $1.15 to $1.85 per day.
 - **Differential Piece-Rate System:** Taylor rejected flat day-wages (which encourage natural soldiering) and ordinary piece-rates (which managers constantly cut when output rises). Instead, he instituted a **differential piece-rate**:
   - A worker who met or exceeded the scientifically determined high standard received a premium, high piece-rate.
@@ -284,7 +289,7 @@ The evolution of management thought is not a chronicle of complete obsolescence 
 - **Distinction between Time Study and Motion Study:**
   - Taylor focused primarily on **time study** (timing operations to establish output quotas and rate schedules).
   - The Gilbreths focused on **motion study** (analyzing, decomposing, and optimizing the physical trajectories of human body movements to eliminate wasted effort).
-- **Therbligs:** The Gilbreths decomposed all physical manual labor into seventeen elementary fundamental motions (anagram of Gilbreth), such as *Search, Find, Select, Grasp, Transport Loaded, Position, Hold, Inspect, and Rest for Overcoming Fatigue*. By photographing workers with micro-chronometers (chronocyclegraphs), they identified awkward, redundant, and energy-wasting movements.
+- **Therbligs:** The Gilbreths decomposed manual work into 18 elementary motions, the count given in the lecture (some accounts list 17), called Therbligs (an anagram of Gilbreth), such as *Search, Find, Select, Grasp, Transport Loaded, Position, Hold, Inspect, and Rest for Overcoming Fatigue*. By photographing workers with micro-chronometers (chronocyclegraphs), they identified awkward, redundant, and energy-wasting movements.
 - **Bricklaying Optimization:** Frank Gilbreth revolutionized bricklaying—a trade unchanged for centuries. By designing adjustable scaffolding (eliminating constant bending), standardizing mortar consistency, and having low-cost helpers arrange bricks with the best face outward, Gilbreth reduced the motions required to lay an exterior brick from **18 motions to 4.5 motions**, increasing output from 120 bricks to 350 bricks per hour while decreasing physical exhaustion.
 - **Ergonomics & Fatigue:** Lillian Gilbreth (a pioneer in industrial psychology) emphasized the physiological and emotional toll of industrial labor. The Gilbreths championed workplace ergonomics: scientifically designed chairs, footrests, lighting, workbench heights, and scheduled rest periods, proving that worker welfare and industrial productivity are mutually reinforcing.
 
@@ -425,7 +430,7 @@ While Weber articulated the **formal rationality** of bureaucracy (its structura
 | **Metcalfe** | Chaotic workshop records; lost memory | Shop-Order Card System (Service, Material, Order) | Institutional memory, cost-tracking science | Static recording; no task-motion optimization |
 | **Taylor** | Systematic soldiering; rule-of-thumb inefficiency | Scientific time study; 4 principles; differential piece-rate | Quantum leap in physical productivity; scientific method | Mechanistic view of workers; anti-union backlash |
 | **Gantt** | Industrial conflict; harsh driving of labor | Task-and-bonus; guaranteed day wage; Gantt chart | "To teach and to lead"; foreman coaching; scheduling | Still largely bounded by production-floor focus |
-| **Gilbreths** | Energy waste; physical fatigue; slow motions | Motion study; 17 Therbligs; ergonomic design | Elimination of wasted body motions; worker welfare | Danger of micro-managing human physical movement |
+| **Gilbreths** | Energy waste; physical fatigue; slow motions | Motion study; 18 Therbligs; ergonomic design | Elimination of wasted body motions; worker welfare | Danger of micro-managing human physical movement |
 | **Church & Alford** | Disconnect between shop costs and financial records | Integration of cost accounting into daily operations | Dynamic operational cost accounting | Heavy accounting overhead and record complexity |
 | **Fayol** | Lack of administrative theory for general managers | 6 activities, 5 POCCC functions, 14 principles | Universal executive functions; scalar chain bridge | Principles can be proverbs that contradict in practice |
 | **Gulick & Urwick** | Coordination across expanding executive agencies | POSDCORB; principles of formal organization | Systematic executive functional vocabulary | Rigid structuralism; understates political reality |
@@ -465,7 +470,7 @@ The Neo-Classical / Human Relations School fundamentally overturned the foundati
   4. *The Bank Wiring Observation Room (1931–1932):*
      - Fourteen male workers assembling telephone switchboard banks were placed under unobtrusive observation in a room with a group piecework incentive.
      - Classical economics predicted that each man would produce at maximum speed to maximize his and the group’s earnings.
-     - **Finding:** The workers established an informal, unwritten output norm (**"6,000 units a day"**) far below their physical capacity.
+     - **Finding:** The workers established an informal, unwritten daily output norm below what they could physically produce.
      - The informal group strictly enforced this restriction of output through psychological ostracism, ridicule, name-calling, and physical "binging" (striking someone hard on the upper arm):
        - A worker who produced too much was branded a **"Rate Buster"**.
        - A worker who produced too little was branded a **"Chiseler"**.
@@ -775,15 +780,23 @@ Modern Management Theory represents the intellectual synthesis that matured from
 - **The Warning:** Co-optation rescues the agency from external political attacks, but often subverts its original public mission as the co-opted interests gradually redirect agency policy toward their own private advantage.
 
 ### C.7 Peter F. Drucker: The Practice of Management and Management by Objectives
-- **Source Context:** *The Practice of Management* (1954); Reading Set 1.
-- **Management by Objectives (MBO):** Drucker revolutionized managerial practice by replacing traditional control-by-surveillance with **Management by Objectives and Self-Control**:
-  - Superiors and subordinates jointly identify common goals, define each individual’s major areas of responsibility in terms of expected results, and use these measures as guides for operating the unit.
-  - MBO shifts focus from *activity* to *results*, transforming subordinates into self-directed managers of their own performance.
-- **Effectiveness versus Efficiency:** Drucker famously declared:
-  - *Efficiency:* Doing things right (technical optimization of means).
-  - *Effectiveness:* Doing the right things (strategic alignment with true purpose).
-  - *"There is nothing so useless as doing efficiently that which should not be done at all."*
-- **The Knowledge Worker:** Anticipated the shift from industrial manual labor to knowledge work, where workers possess specialized expertise that surpasses their supervisors, requiring collaborative, empowering leadership rather than classical command-and-control.
+> **Exam cutoff.** C.7 is the last topic within the confirmed exam scope. Everything after C.8 is marked *Possible not included in the exam*.
+
+- **Source Context:** *The Practice of Management* (Harper, 1954), listed as the final Modern Management reading in Reading Set 1.
+- **Evidence note:** That Reading Set 1 entry is the only mention of Drucker in the local course materials. The transcribed lecture notes end at the March 17 introduction to Modern Theories of Management; the senior exam reviewer and the consolidated notes (compiled through October 9) contain no Drucker or MBO material, and no Drucker slide was recovered. The summary below follows Drucker's book and standard accounts of MBO, not a lecture slide, so lecture-specific emphases cannot be confirmed.
+- **Management by Objectives and Self-Control (MBO):** Drucker's answer to how an organization of specialists can be directed toward common results without supervising every move:
+  - Each manager's objectives are derived from the objectives of the larger unit, so every part works toward the purpose of the whole.
+  - Superior and subordinate jointly agree on the results expected in the subordinate's area, how they will be measured, and when they will be reviewed.
+  - Performance is judged against results rather than visible activity.
+  - **Self-control:** people who know their objectives and receive information about their own performance can measure and correct their own work. Control shifts from domination by a supervisor to self-direction informed by results, so performance data must flow to the person doing the work, not only upward.
+- **Connections within the exam scope:**
+  - *Taylor and Fayol:* Taylor located planning and control in management; Fayol treated control as checking conformity with plans and standards. MBO keeps plans and standards but moves target-setting and much of the checking to the person responsible.
+  - *Urwick:* echoes the principle of the objective, that every part of an organization must express the purpose of the undertaking.
+  - *Locke (goal-setting):* specific, challenging goals with feedback direct effort; MBO turns this finding into a management system.
+  - *McGregor (Theory Y):* MBO assumes people will exercise self-direction toward objectives they are committed to. Imposed targets under Theory X assumptions turn MBO into a quota system.
+- **Limitations in public administration:** many public objectives (fairness, legality, trust) are hard to measure, so measurable targets can crowd out unmeasured work; targets can be gamed; rigid budget and civil-service rules limit the discretion that self-control requires; and objectives "agreed" within a strict hierarchy are often imposed in practice.
+- **Related ideas from Drucker's later writing (not from the 1954 reading):** the distinction between *efficiency* (doing things right) and *effectiveness* (doing the right things), associated with *The Effective Executive* (1967); and the *knowledge worker*, whose expertise may exceed the supervisor's and who is managed better through objectives than through command.
+- **Practice:** see essay question q16 on `/essay-questions`.
 
 ### C.8 Modern Management Synthesis & Analytical Questions
 
@@ -872,7 +885,7 @@ Blind Spot        red tape; alienation    of task structure       over-rationali
 
 ---
 
-# Division III — Metaphors of Organization
+# Division III — Metaphors of Organization [Possible not included in the exam]
 
 ## 3.1 Theoretical Foundations of Metaphorical Analysis
 - **Scholarly Authority:** Gareth Morgan, *Images of Organization* (1986; 1997; 2006); prescribed in syllabus and consolidated course notes.
@@ -961,7 +974,7 @@ System       compete? Where does real power lie?          competing bureau chief
 
 ---
 
-# Division IV — Functions of Administration
+# Division IV — Functions of Administration [Possible not included in the exam]
 
 ```
 ========================================================================================

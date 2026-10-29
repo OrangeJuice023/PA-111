@@ -1,8 +1,25 @@
 import { useState, useMemo } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
-import { getAllQuestions } from '@/data/questions'
+import { getAllQuestions, SOURCE_LABELS } from '@/data/questions'
 import type { EssayQuestion } from '@/data/questions'
 import './EssayQuestions.css'
+
+// Answers use light Markdown emphasis (**bold**, *italic*); render it instead of showing the asterisks.
+function renderInline(text: string) {
+  return text.split(/(\*\*[^*]+\*\*|\*[^*\n]+\*)/g).map((part, idx) => {
+    if (part.startsWith('**') && part.endsWith('**') && part.length > 4) {
+      return <strong key={idx}>{part.slice(2, -2)}</strong>
+    }
+    if (part.startsWith('*') && part.endsWith('*') && part.length > 2) {
+      return <em key={idx}>{part.slice(1, -1)}</em>
+    }
+    return part
+  })
+}
+
+function toPlainText(text: string) {
+  return text.replace(/\*\*([^*]+)\*\*/g, '$1').replace(/\*([^*\n]+)\*/g, '$1')
+}
 
 export default function EssayQuestions() {
   const questions = getAllQuestions()
@@ -46,7 +63,10 @@ export default function EssayQuestions() {
     setSearch('')
     setDivisionFilter('')
     setDifficultyFilter('')
+    setShowOutOfScope(true)
   }
+
+  const outOfScopeCount = questions.filter((q) => q.outOfScope).length
 
   return (
     <div className="essay-questions-page">
@@ -56,9 +76,13 @@ export default function EssayQuestions() {
           <span className="badge">PA 111 Question Bank</span>
           <h1>Possible Essay Exam Questions & Model Suggested Answers</h1>
           <p className="subtitle">
-            Curated situational and integrative essay prompts reflecting the rigorous analytical standards of PA 111. 
-            Each prompt includes a complete 250–450 word suggested answer structured around thesis claims, theoretical mechanics, 
-            concrete applications, and source references.
+            Situational and integrative essay prompts for PA 111. Each prompt includes a complete suggested answer
+            (a thesis, the relevant theory, comparisons, an application and limits) with references to the course materials it draws on.
+          </p>
+          <p className="scope-summary">
+            <strong>Exam scope:</strong> the confirmed cutoff is Peter F. Drucker&apos;s Management by Objectives.{' '}
+            {questions.length - outOfScopeCount} of {questions.length} questions fall within that scope; {outOfScopeCount} rely
+            on later topics and are marked <span className="scope-badge">Possible not included in the exam</span>
           </p>
           <div className="exam-disclaimer">
             <strong>Academic Notice:</strong> These questions and model answers are designed as comprehensive study and practice instruments. 
@@ -136,7 +160,7 @@ export default function EssayQuestions() {
 
           <div className="filter-status">
             <span>Showing <strong>{filtered.length}</strong> of {questions.length} questions</span>
-            {(search || divisionFilter || difficultyFilter) && (
+            {(search || divisionFilter || difficultyFilter || !showOutOfScope) && (
               <button onClick={resetFilters} className="reset-filter-link">
                 Reset filters
               </button>
@@ -157,7 +181,7 @@ export default function EssayQuestions() {
         {filtered.length === 0 && (
           <div className="empty-state-card">
             <h3>No matching essay questions found</h3>
-            <p>Try adjusting your search keywords or clearing active division/difficulty filters.</p>
+            <p>Try adjusting your search keywords, clearing the division/difficulty filters, or showing questions beyond the exam cutoff.</p>
             <button onClick={resetFilters} className="btn btn-primary">
               Clear All Filters
             </button>
@@ -226,7 +250,7 @@ export default function EssayQuestions() {
                     <div className="answer-header">
                       <h3>Model Analytical Answer</h3>
                       <button 
-                        onClick={() => copyText(q.answer, `answer-${q.id}`)}
+                        onClick={() => copyText(toPlainText(q.answer), `answer-${q.id}`)}
                         className="btn-copy-answer"
                       >
                         {copiedId === `answer-${q.id}` ? '✓ Copied Answer!' : '📋 Copy Complete Answer'}
@@ -235,17 +259,17 @@ export default function EssayQuestions() {
 
                     <div className="answer-body">
                       {q.answer.split('\n\n').map((paragraph, pIdx) => (
-                        <p key={pIdx}>{paragraph}</p>
+                        <p key={pIdx}>{renderInline(paragraph)}</p>
                       ))}
                     </div>
 
                     {q.sources && q.sources.length > 0 && (
                       <div className="sources-footer">
-                        <span className="sources-label">Verified Source Citations:</span>
+                        <span className="sources-label">Source References:</span>
                         <div className="sources-tags">
                           {q.sources.map((s, sIdx) => (
                             <span key={sIdx} className="source-citation">
-                              <strong>{s.key}</strong> {s.page ? `• ${s.page}` : ''}
+                              <strong>{SOURCE_LABELS[s.key]}</strong> {s.page ? `• ${s.page}` : ''}
                             </span>
                           ))}
                         </div>

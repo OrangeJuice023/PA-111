@@ -39,7 +39,7 @@ export default function ConceptConnections() {
                   <tr>
                     <td><strong>Taylor (Scientific Management)</strong></td>
                     <td>Economic instrument (*homo economicus*); prone to systematic soldiering.</td>
-                    <td>Time study, 21.5 lb shovel standard, differential piece-rate.</td>
+                    <td>Time study, 21 lb shovel standard, differential piece-rate.</td>
                     <td>Deskilling, physical fatigue, labor union strikes, worker alienation.</td>
                   </tr>
                   <tr>

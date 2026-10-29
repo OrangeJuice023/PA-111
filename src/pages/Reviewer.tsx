@@ -7,15 +7,22 @@ interface TocItem {
   id: string;
   text: string;
   level: number;
+  outOfScope: boolean;
 }
 
+// Headings after the Drucker (MBO) cutoff carry this marker in the Markdown source.
+const SCOPE_MARKER = '[Possible not included in the exam]';
+const SCOPE_BADGE = '<span class="scope-badge">Possible not included in the exam</span>';
+
+// GitHub-style slug: each whitespace character becomes a hyphen, so "I — History" -> "i--history",
+// matching the anchors used by the Markdown table of contents and the quick-jump buttons.
 function slugify(text: string): string {
   return text
     .toLowerCase()
     .replace(/<[^>]+>/g, '')
     .replace(/[^\w\s-]/g, '')
     .trim()
-    .replace(/\s+/g, '-');
+    .replace(/\s/g, '-');
 }
 
 export default function Reviewer() {
@@ -28,13 +35,16 @@ export default function Reviewer() {
     const tocList: TocItem[] = [];
     const renderer = new marked.Renderer();
 
-    renderer.heading = ({ text, depth }) => {
-      const cleanText = text.replace(/<[^>]+>/g, '');
+    renderer.heading = function ({ tokens, depth }) {
+      const inlineHtml = this.parser.parseInline(tokens);
+      const outOfScope = inlineHtml.includes(SCOPE_MARKER);
+      const headingHtml = inlineHtml.replace(SCOPE_MARKER, '').trim();
+      const cleanText = headingHtml.replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&quot;/g, '"');
       const id = slugify(cleanText);
       if (depth <= 3) {
-        tocList.push({ id, text: cleanText, level: depth });
+        tocList.push({ id, text: cleanText, level: depth, outOfScope });
       }
-      return `<h${depth} id="${id}" class="heading-anchor-target">${text} <a href="#${id}" class="anchor-link" aria-label="Link to this section">#</a></h${depth}>`;
+      return `<h${depth} id="${id}" class="heading-anchor-target">${headingHtml}${outOfScope ? ` ${SCOPE_BADGE}` : ''} <a href="#${id}" class="anchor-link" aria-label="Link to this section">#</a></h${depth}>`;
     };
 
     const parsedHtml = marked.parse(reviewerRaw, { renderer, async: false }) as string;
@@ -104,6 +114,11 @@ export default function Reviewer() {
               Comprehensive, syllabus-aligned study text covering the History of Administration, 
               Evolution of Management Thought, Metaphors of Organization, and Functions of Administration.
             </p>
+            <p className="scope-cutoff-note">
+              <strong>Exam scope:</strong> the confirmed cutoff is Peter F. Drucker&apos;s Management by Objectives (II-C.7).
+              Sections after it are kept for later exams and marked{' '}
+              <span className="scope-badge">Possible not included in the exam</span>
+            </p>
             <div className="quick-jump-bar">
               <span className="quick-label">Jump to:</span>
               <button onClick={() => scrollToSection('division-i--history-of-administration')} className="chip-btn">
@@ -164,6 +179,9 @@ export default function Reviewer() {
                       className="toc-link"
                     >
                       {item.text}
+                      {item.outOfScope && (
+                        <span className="scope-badge">Possible not included in the exam</span>
+                      )}
                     </button>
                   </li>
                 ))}

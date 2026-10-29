@@ -187,7 +187,7 @@ export default function EssayPractice() {
                     <option value="">-- Choose an exam prompt from the bank --</option>
                     {questions.map((q) => (
                       <option key={q.id} value={q.id}>
-                        {q.id.toUpperCase()}: {q.title} ({q.difficulty}){q.outOfScope ? ' — beyond exam cutoff' : ''}
+                        {q.id.toUpperCase()}: {q.title} ({q.difficulty}){q.outOfScope ? ' · Possible not included in the exam' : ''}
                       </option>
                     ))}
                   </select>

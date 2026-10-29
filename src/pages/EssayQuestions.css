@@ -377,6 +377,14 @@
 
 .answer-body p {
   margin-bottom: 1.15rem;
+  white-space: pre-line;
+}
+
+.scope-summary {
+  font-size: 0.88rem;
+  color: var(--text-secondary, #6C7067);
+  line-height: 1.6;
+  margin-top: 0.75rem;
 }
 
 .sources-footer {
