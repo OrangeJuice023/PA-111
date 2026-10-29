@@ -59,6 +59,70 @@
   align-items: center;
 }
 
+.nav-list {
+  margin-left: auto;
+  order: 1;
+}
+
+/* Page search; also the only way to reach pages kept out of the nav */
+.nav-search {
+  position: relative;
+  flex-shrink: 0;
+  order: 2;
+}
+
+.nav-search-input {
+  width: 170px;
+  font: inherit;
+  font-size: 0.88rem;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  background: var(--bg-primary, #F8F6F0);
+  color: var(--text-primary);
+  outline: none;
+}
+
+.nav-search-input:focus {
+  border-color: var(--accent-primary);
+}
+
+.nav-search-results {
+  position: absolute;
+  top: calc(100% + 0.35rem);
+  right: 0;
+  min-width: 220px;
+  list-style: none;
+  margin: 0;
+  padding: 0.3rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  z-index: 110;
+}
+
+.nav-search-results a {
+  display: block;
+  padding: 0.45rem 0.65rem;
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.nav-search-results a:hover,
+.nav-search-results a:focus {
+  background: var(--accent-light);
+  color: var(--accent-primary);
+}
+
+.nav-search-empty {
+  padding: 0.45rem 0.65rem;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
 .nav-link {
   display: block;
   color: var(--text-secondary);
@@ -105,6 +169,15 @@
     padding: 0.6rem 1rem;
   }
 
+  .nav-search {
+    margin-left: auto;
+    order: 0;
+  }
+
+  .nav-search-input {
+    width: 150px;
+  }
+
   .nav-toggle {
     display: block;
   }
@@ -114,6 +187,8 @@
     flex-direction: column;
     align-items: stretch;
     width: 100%;
+    margin-left: 0;
+    order: 1;
     gap: 0.25rem;
     padding: 0.25rem 0 0.5rem;
     border-top: 1px solid var(--border-color);
@@ -127,5 +202,26 @@
     padding: 0.6rem 0.75rem;
     font-size: 0.95rem;
     white-space: normal;
+  }
+}
+
+/* Phones: the search gets its own full-width row under the logo */
+@media (max-width: 520px) {
+  .nav-search {
+    order: 1;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .nav-search-input {
+    width: 100%;
+  }
+
+  .nav-search-results {
+    left: 0;
+  }
+
+  .nav-list {
+    order: 2;
   }
 }
