@@ -37,74 +37,79 @@ export default function TheorySynthesis() {
           <h2>Suggested Model Answer</h2>
 
           <p>
-            The Classical, Human Relations, and Modern schools are best understood not as rivals but as successive
-            answers to one problem: how to get many people to work toward a common purpose. Each school solved part of
-            that problem and left a gap that the next one tried to fill. For this reason, a contemporary manager should
-            not rely on a single theory, but should diagnose the problem at hand and combine the theories that fit it.
+            The Classical, Human Relations, and Modern schools of management can look like competing theories, but I
+            think they are better seen as steps in one long conversation. All three try to answer the same question:
+            how do you get many people to work together toward a common goal? Each school answered part of it and
+            left a gap for the next one to fill. In this essay, I argue that a manager today should not depend on just
+            one theory, but should first understand the problem and then combine the ideas that fit it.
           </p>
 
           <h3>1. The Classical School: structure, standards, and authority</h3>
           <p>
-            The Classical School asked how work and authority should be organized so that an organization performs
-            reliably. Taylor measured work against standards and called for a &ldquo;mental revolution&rdquo; in which
-            managers and workers cooperate rather than quarrel over the surplus. Gantt kept Taylor&rsquo;s standards
-            but humanized them by guaranteeing the day wage and rewarding supervisors for teaching; where
-            Taylor&rsquo;s policy was to drive, Gantt&rsquo;s was to teach and lead. Fayol extended the analysis to the
-            whole enterprise through the functions of planning, organizing, commanding, coordinating, and controlling,
-            while Weber explained authority grounded in written rules rather than personal favor.
+            The Classical School focused on how to organize work and authority so that an organization runs
+            efficiently. Frederick Taylor measured work and set standards, and he called for a &ldquo;mental
+            revolution&rdquo; where managers and workers cooperate instead of fighting over the surplus. Henry Gantt
+            kept these standards but made the system more humane: he guaranteed the day wage and rewarded supervisors
+            for teaching their workers. In short, Taylor&rsquo;s approach was to drive, while Gantt&rsquo;s was to
+            teach and lead. Henri Fayol looked at the organization as a whole and described management as planning,
+            organizing, commanding, coordinating, and controlling, while Max Weber explained authority based on
+            written rules instead of personal favor.
           </p>
           <p>
-            The school&rsquo;s strengths are clear responsibilities, predictability, efficiency, and accountability.
-            Its central weakness is its neglect of the human side of work. Taylor&rsquo;s system was criticized as
-            dehumanizing and monotonous, and Merton warned that bureaucratic rules can become ends in themselves. The
-            Classical School assumed that a design which is rational on paper would perform well in practice, which
-            does not always hold.
+            The main strength of this school is that it gave organizations clear roles, order, efficiency, and
+            accountability. Its biggest weakness is that it treated workers almost like parts of a machine.
+            Taylor&rsquo;s system was criticized as dehumanizing and monotonous, and Merton pointed out that rules can
+            become more important than the goals they were meant to serve. Basically, the Classical School assumed that
+            a well-designed structure would automatically lead to good performance, which is not always true.
           </p>
 
           <h3>2. The Human Relations School: the social side of work</h3>
           <p>
-            The Human Relations School began from this gap. The Hawthorne studies led by Mayo and Roethlisberger found
-            that output could not be explained by lighting or physical conditions alone, and that workers held output
-            to informal group norms. These findings established that an organization is a social system, that money
-            is not the only motivator, and that morale is linked to output. Herzberg, McGregor, and Adams further
-            showed that recognition, a manager&rsquo;s assumptions about people, and perceived fairness all shape
-            effort.
+            The Human Relations School grew out of this weakness. In the Hawthorne studies, Elton Mayo and Fritz
+            Roethlisberger found that productivity could not be explained by lighting or physical conditions alone,
+            and that workers followed informal group norms about how much to produce. From this, they concluded that
+            an organization is also a social system, that money is not the only motivator, and that morale affects
+            output. Later theorists built on this: Herzberg showed the role of recognition and achievement, McGregor
+            showed how a manager&rsquo;s assumptions about people shape their behavior, and Adams showed that people
+            care about fairness.
           </p>
           <p>
-            This school expanded the Classical School rather than replacing it, since structure and pay continue to
-            matter. Its limitation is the assumption that satisfied workers are necessarily productive workers; the
-            lecture notes that Herzberg&rsquo;s theory assumes this link without establishing it.
+            However, this school added to the Classical School rather than replacing it, because structure and pay
+            still matter. Its weakness is assuming that satisfied workers will always be productive workers. As
+            discussed in the lecture, Herzberg&rsquo;s theory takes this link for granted without really proving it.
           </p>
 
           <h3>3. Modern Management: the whole system and its results</h3>
           <p>
-            The Modern School widened the view further. Its central idea in the course is the Systems Approach, which
-            treats the organization as an open system of interdependent parts that takes in inputs, produces outputs,
-            and adjusts through feedback. This perspective reveals what the earlier schools overlooked: improving one
-            department may harm the whole. Drucker&rsquo;s Management by Objectives, the last topic in the exam scope,
-            returns the focus to results. Superiors and subordinates agree on expected results, and people who receive
-            information on their own performance can exercise self-control. MBO thus combines the Classical concern
-            for standards with the Human Relations insight that committed people direct themselves.
+            The Modern School looked at the organization from an even wider angle. Its key idea in our course is the
+            Systems Approach, which sees the organization as an open system of connected parts that takes in inputs,
+            produces outputs, and adjusts through feedback. This helps managers see something the earlier schools
+            missed: improving one department can sometimes hurt the whole organization. Peter Drucker&rsquo;s
+            Management by Objectives (MBO), the last topic in our exam coverage, then brings the focus back to results.
+            Managers and employees agree on goals together, and when people can see their own performance, they can
+            manage themselves. For me, MBO is a good bridge between the Classical focus on standards and the Human
+            Relations idea that committed people can direct their own work.
           </p>
           <p>
-            Its limitation is that a view of the whole does not by itself indicate what action to take, and MBO can
-            decline into target-chasing when objectives are imposed or poorly chosen.
+            Still, the Modern School has limits. Seeing the whole system does not automatically tell a manager what to
+            do, and MBO can turn into simply chasing targets if the goals are forced on people or poorly chosen.
           </p>
 
           <h3>4. One theory or several?</h3>
           <p>
-            A contemporary manager should therefore integrate several theories, because real organizations face
-            several problems at once. Consider a municipal business-permit office where applications take weeks and
-            staff morale is low. Classical tools come first: mapping the workflow, assigning responsibility for each
-            step, and setting service standards. Human Relations insights follow: consulting frontline clerks about
-            obstacles and checking that workloads are fair. Systems thinking then recognizes that the delay may
-            originate in another unit, such as the fire-safety inspection. Finally, MBO converts the diagnosis into
-            agreed objectives, such as processing time, with each unit seeing its own results.
+            Because of all this, I believe it is better for a manager to combine theories than to rely on only one.
+            Real organizations usually have several problems at the same time. For example, imagine a municipal
+            business-permit office where applications take weeks and employees have low morale. A manager could start
+            with Classical tools by mapping the process, assigning clear responsibilities, and setting service
+            standards. Then, using Human Relations ideas, the manager could talk to the frontline staff about what is
+            slowing them down and make sure workloads are fair. Systems thinking would remind the manager that the
+            delay might actually come from another office, like the fire-safety inspection. Finally, MBO could turn
+            all of this into shared goals, such as processing time, with each unit tracking its own progress.
           </p>
           <p>
-            Integration works because each approach offsets the blind spots of the others. The appropriate
-            combination, however, depends on context: a routine, stable task may call mainly for Classical standards,
-            whereas a team of professionals may respond better to objectives and autonomy.
+            This combination works because each approach covers the blind spots of the others. Of course, the right
+            mix depends on the situation. A routine and stable task might mostly need Classical standards, while a
+            team of professionals might work better with clear objectives and more freedom.
           </p>
           <aside className="synthesis-scope-note">
             <span className="scope-badge">Possible not included in the exam</span>
@@ -117,10 +122,11 @@ export default function TheorySynthesis() {
 
           <h3>Conclusion</h3>
           <p>
-            The evolution of management thought is a process of accumulation rather than replacement. The Classical
-            School contributes structure and accountability, the Human Relations School an understanding of people,
-            and the Modern School a view of the whole and a focus on results. The effective manager combines these
-            insights deliberately, guided by the problem at hand rather than by loyalty to a single school.
+            Looking at all three schools, management thought did not throw away old ideas but kept building on them.
+            The Classical School gave us structure and accountability, the Human Relations School reminded us that
+            workers are people, and the Modern School taught us to see the whole picture and focus on results. In my
+            view, the best manager is not someone loyal to one school, but someone who knows how to combine these
+            ideas depending on the problem they are facing.
           </p>
         </article>
 
