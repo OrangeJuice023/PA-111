@@ -1,7 +1,13 @@
 import { useEffect, useMemo, useState } from 'react';
-import { marked } from 'marked';
+import { Marked, Renderer } from 'marked';
+import markedKatex from 'marked-katex-extension';
+import 'katex/dist/katex.min.css';
 import reviewerRaw from '../../source-materials/PA111_CONSOLIDATED_REVIEWER.md?raw';
 import './Reviewer.css';
+
+// Math: $...$ inline and $$...$$ display, typeset with KaTeX. nonStandard lets inline math follow
+// punctuation such as "($E$)"; currency dollars in the Markdown are escaped as \$ so they stay text.
+const reviewerMarked = new Marked(markedKatex({ throwOnError: false, nonStandard: true }));
 
 interface TocItem {
   id: string;
@@ -33,7 +39,7 @@ export default function Reviewer() {
   // Parse Table of Contents and render HTML with heading IDs
   const { html, toc } = useMemo(() => {
     const tocList: TocItem[] = [];
-    const renderer = new marked.Renderer();
+    const renderer = new Renderer();
 
     renderer.heading = function ({ tokens, depth }) {
       const inlineHtml = this.parser.parseInline(tokens);
@@ -47,7 +53,7 @@ export default function Reviewer() {
       return `<h${depth} id="${id}" class="heading-anchor-target">${headingHtml}${outOfScope ? ` ${SCOPE_BADGE}` : ''} <a href="#${id}" class="anchor-link" aria-label="Link to this section">#</a></h${depth}>`;
     };
 
-    const parsedHtml = marked.parse(reviewerRaw, { renderer, async: false }) as string;
+    const parsedHtml = reviewerMarked.parse(reviewerRaw, { renderer, async: false }) as string;
     return { html: parsedHtml, toc: tocList };
   }, []);
 

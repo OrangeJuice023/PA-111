@@ -153,7 +153,7 @@ export default function ConceptConnections() {
                   <tr>
                     <td><strong>Vroom (Expectancy Theory)</strong></td>
                     <td>Process</td>
-                    <td>Cognitive calculation: Force = Expectancy $\times$ Instrumentality $\times$ Valence.</td>
+                    <td>Cognitive calculation: Force (M) = Expectancy (E) × Instrumentality (I) × Valence (V).</td>
                     <td>If civil servants believe promotions depend on patronage ($I=0$), effort collapses to zero.</td>
                   </tr>
                 </tbody>

@@ -12,6 +12,7 @@ function Layout() {
             <li><NavLink to="/syllabus" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Syllabus</NavLink></li>
             <li><NavLink to="/reviewer" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Canonical Reviewer</NavLink></li>
             <li><NavLink to="/essay-questions" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Possible Essay Exam Questions</NavLink></li>
+            <li><NavLink to="/theory-synthesis" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Theory Synthesis</NavLink></li>
             <li><NavLink to="/connections" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Concept Connections</NavLink></li>
             <li><NavLink to="/essay" className={({isActive})=>isActive?'nav-link active':'nav-link'}>Essay Practice</NavLink></li>
           </ul>

@@ -7,6 +7,7 @@ import ConceptConnections from './pages/ConceptConnections'
 import EssayPractice from './pages/EssayPractice'
 import EssayQuestions from './pages/EssayQuestions'
 import Reviewer from './pages/Reviewer'
+import TheorySynthesis from './pages/TheorySynthesis'
 import NotFound from './pages/NotFound'
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Route path="connections" element={<ConceptConnections />} />
         <Route path="essay" element={<EssayPractice />} />
         <Route path="essay-questions" element={<EssayQuestions />} />
+        <Route path="theory-synthesis" element={<TheorySynthesis />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>
