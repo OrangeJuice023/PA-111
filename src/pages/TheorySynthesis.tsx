@@ -72,7 +72,11 @@ export default function TheorySynthesis() {
             accountability. Its biggest weakness is that it treated workers almost like parts of a machine.
             Taylor&rsquo;s system was criticized as dehumanizing and faced union resistance. Merton pointed out that
             rules can become ends in themselves, Selznick showed that subunits can pursue their own goals, and Herbert
-            Simon argued that the &ldquo;principles&rdquo; often contradict each other like proverbs. Basically, the
+            Simon argued that the &ldquo;principles&rdquo; often contradict each other like proverbs. Talcott Parsons
+            noted the conflict between authority based on position and authority based on expertise, and Peter Blau
+            found that informal cooperation among employment-agency staff served clients better than strict
+            competitive quotas. In public administration, Onofre Corpuz and Carl Friedrich stressed that bureaucratic
+            neutrality should never replace ethical responsibility and responsiveness to the public. Basically, the
             Classical School assumed that a well-designed structure would automatically lead to good performance,
             which is not always true.
           </p>
