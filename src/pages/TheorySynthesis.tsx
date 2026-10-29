@@ -50,20 +50,25 @@ export default function TheorySynthesis() {
             efficiently. It started on the shop floor. Adam Smith and Charles Babbage showed that dividing work lowers
             costs, and Babbage added that even mental work should be split by skill level so that expensive workers
             are not wasted on simple tasks. Henry Metcalfe, at the Frankford Arsenal, replaced foremen&rsquo;s memories
-            with shop-order cards, so the organization kept records instead of relying on people. Frederick Taylor then
-            measured work scientifically, fought &ldquo;soldiering,&rdquo; and called for a &ldquo;mental
+            with shop-order cards, so the organization kept records instead of relying on people. Metcalfe recorded
+            work; Frederick Taylor took the next step and measured it scientifically to set standards. He also fought &ldquo;soldiering,&rdquo; and called for a &ldquo;mental
             revolution&rdquo; where managers and workers cooperate instead of fighting over the surplus. Henry Gantt kept
             Taylor&rsquo;s standards but made them more humane by guaranteeing the day wage and rewarding foremen for
             teaching, so where Taylor&rsquo;s approach was to drive, Gantt&rsquo;s was to teach and lead. Frank and
             Lillian Gilbreth studied motions instead of time and showed that reducing fatigue helps both workers and
-            output, while Church and Alford connected cost accounting to daily operations.
+            output, while Church and Alford connected Taylor&rsquo;s shop-floor methods to cost accounting. In a way,
+            Gantt and the Gilbreths were already correcting Taylor from the inside, since they paid attention to the
+            worker&rsquo;s welfare that the next school would put at the center.
           </p>
           <p>
-            Other Classical thinkers looked at the organization from the top. Henri Fayol described management as
+            Other Classical thinkers looked at the organization from the top. While Taylor looked up from the worker,
+            Henri Fayol looked down from the managing director. He described management as
             planning, organizing, commanding, coordinating, and controlling, and gave principles like unity of command
-            and the scalar chain. Luther Gulick summed up executive work as POSDCORB, and Lyndall Urwick added
-            principles such as span of control and the principle of the objective. Mooney and Reiley called
-            coordination the first principle of organization and separated line authority from staff advice. Finally,
+            and the scalar chain. His unity of command directly rejected Taylor&rsquo;s functional foremen, where one
+            worker could have several bosses. Mooney and Reiley called coordination the first principle of
+            organization and separated line authority from staff advice. Luther Gulick then summed up executive work as
+            POSDCORB, which expands Fayol&rsquo;s functions, and Lyndall Urwick combined the ideas of Fayol, Taylor, and
+            Mooney and Reiley into principles such as span of control and the principle of the objective. Finally,
             Max Weber, as explained by Martin Albrow, described bureaucracy as authority based on written rules,
             hierarchy, and qualified officials instead of personal favor.
           </p>
@@ -83,21 +88,26 @@ export default function TheorySynthesis() {
 
           <h3>2. The Human Relations School: the social side of work</h3>
           <p>
-            The Human Relations School grew out of this weakness. In the Hawthorne studies, Elton Mayo and Fritz
-            Roethlisberger found that productivity could not be explained by lighting or physical conditions alone,
+            The Human Relations School grew out of this weakness. Interestingly, the Hawthorne studies began as a
+            Classical experiment, testing whether better lighting raises output. Elton Mayo and Fritz Roethlisberger
+            instead found that productivity could not be explained by lighting or physical conditions alone,
             and in the Bank Wiring room workers kept to their own informal output norm. From this, they concluded that
             an organization is also a social system, that money is not the only motivator, and that morale affects
-            output.
+            output. This directly challenged Taylor&rsquo;s picture of the worker as an isolated person moved only by
+            pay. The Bank Wiring room is also the same &ldquo;soldiering&rdquo; Taylor complained about, but now
+            explained as a social behavior instead of laziness.
           </p>
           <p>
             The motivation theorists then explained what people actually need. Abraham Maslow arranged needs in a
-            hierarchy from physiological to self-actualization, and Clayton Alderfer simplified it into Existence,
+            hierarchy from physiological to self-actualization, and Clayton Alderfer later revised it into Existence,
             Relatedness, and Growth, adding that people who are blocked from growing fall back on lower needs. David
             McClelland showed that needs for achievement, affiliation, and power are learned. Frederick Herzberg
             separated hygiene factors such as salary, which only prevent dissatisfaction, from motivators such as
-            achievement and responsibility. Douglas McGregor showed that a manager&rsquo;s Theory X or Theory Y
-            assumptions can become self-fulfilling, and Chris Argyris argued that narrow, controlled jobs clash with
-            the mature adult personality. Other theorists focused on how motivation works. J. Stacy Adams showed that
+            achievement and responsibility, which means Taylor&rsquo;s reliance on pay could stop complaints but not
+            create real motivation. Douglas McGregor showed that a manager&rsquo;s Theory X or Theory Y assumptions can
+            become self-fulfilling, and Theory X sounds a lot like how Classical managers saw workers. Chris Argyris
+            went straight at the Classical principles, arguing that specialization, hierarchy, and tight control
+            clash with the mature adult personality. Other theorists focused on how motivation works. J. Stacy Adams showed that
             people compare their rewards with others&rsquo;, so fairness matters. Victor Vroom explained motivation
             as Expectancy &times; Instrumentality &times; Valence, so if any one of them is zero, motivation drops to
             zero. Edwin Locke and Gary Latham found that specific, challenging goals with feedback improve
@@ -112,23 +122,31 @@ export default function TheorySynthesis() {
 
           <h3>3. Modern Management: the whole system and its results</h3>
           <p>
-            The Modern School looked at the organization from an even wider angle. Daniel Katz and Robert Kahn
-            described organizations as open systems that take in inputs, transform them, produce outputs, and adjust
-            through feedback, and they noted that the same goal can be reached by different paths. This shows
-            something the earlier schools missed: improving one department can sometimes hurt the whole organization.
+            The Modern School looked at the organization from an even wider angle. The Classical School treated the
+            organization like a closed machine, and Human Relations mostly looked inside the work group. Daniel Katz
+            and Robert Kahn instead described organizations as open systems that take in inputs from their
+            environment, transform them, produce outputs, and adjust through feedback, and they noted that the same
+            goal can be reached by different paths, so there is no single &ldquo;one best way.&rdquo; This
+            shows something the earlier schools missed: improving one department can sometimes hurt the whole
+            organization.
             Peter Blau and W. Richard Scott classified organizations by who benefits from them, such as members,
             owners, clients, or the public. Edgar Schein explained that culture runs from visible artifacts down to
             unspoken assumptions, and Henry Mintzberg showed that organizations take different structures, such as a
-            machine bureaucracy or an adhocracy, depending on how they coordinate work. John Meyer and Brian Rowan
-            showed that agencies sometimes adopt formal structures mainly for legitimacy and then &ldquo;decouple&rdquo;
-            them from actual work, and Philip Selznick showed how organizations absorb outside groups through
-            co-optation to survive.
+            machine bureaucracy or an adhocracy, depending on how they coordinate work. His machine bureaucracy runs
+            on the standardized work Taylor and Weber described, but now it is just one option among several instead
+            of the ideal. John Meyer and Brian Rowan showed that agencies sometimes adopt formal structures mainly for
+            legitimacy and then &ldquo;decouple&rdquo; them from actual work, which is a bit like the gap between the
+            formal and informal organization that Hawthorne first noticed. Philip Selznick, who had already
+            criticized bureaucracy, showed how organizations absorb outside groups through co-optation to survive.
           </p>
           <p>
             Peter Drucker&rsquo;s Management by Objectives (MBO), the last topic in our exam coverage, brings the focus
             back to results. Managers and employees agree on goals together, and when people can see their own
             performance, they can manage themselves. For me, MBO is a good bridge between the Classical focus on
-            standards and the Human Relations idea that committed people can direct their own work. Still, the Modern
+            standards and the Human Relations idea that committed people can direct their own work. It echoes
+            Urwick&rsquo;s principle of the objective, turns Locke&rsquo;s goal-setting findings into a management
+            system, and assumes the Theory Y worker McGregor described. Where Taylor and Fayol kept planning and
+            control with management, MBO moves much of the checking to the person doing the work. Still, the Modern
             School has limits. Seeing the whole system does not automatically tell a manager what to do, and MBO can
             turn into simply chasing targets if the goals are forced on people or poorly chosen.
           </p>
